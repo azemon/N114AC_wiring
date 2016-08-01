@@ -6,8 +6,8 @@
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">79</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">13547</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">59986</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">28999</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">59985</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">28998</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-429</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-7651</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">58638</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">28855</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-403</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-12079</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">67815</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">28933</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Officejet-7000</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">tQH+/09mZmljZWpldC03MDAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VqZXQtNzAwMAAAAAAAAAAAAAAAAAAWAAMAxQAAAAEAAAALAJqqAABYbwAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlamV0LTcwMDAKb3JpZW50YXRpb249TGFuZHNjYXBlCmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpCLkZCAElucHV0U2xvdDpBdXRvAAAKAElzUXVpY2tKb2IEAHRydWUSAENPTVBBVF9EVVBMRVhfTU9ERQ4ARFVQTEVYX1VOS05PV04=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">tQH+/09mZmljZWpldC03MDAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VqZXQtNzAwMAAAAAAAAAAAAAAAAAAWAAMAxQAAAAEAAAALAJqqAABYbwAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlamV0LTcwMDAKb3JpZW50YXRpb249TGFuZHNjYXBlCmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpJbnB1dFNsb3Q6QXV0bwBQYWdlU2l6ZTpCLkZCAAAKAElzUXVpY2tKb2IEAHRydWUSAENPTVBBVF9EVVBMRVhfTU9ERQ4ARFVQTEVYX1VOS05PV04=</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -790,7 +790,7 @@
     </draw:g>
     <draw:g>
      <draw:g>
-      <draw:custom-shape draw:style-name="gr26" draw:text-style-name="P1" draw:layer="layout" svg:width="0.635cm" svg:height="0.533cm" svg:x="15.915cm" svg:y="6.09cm">
+      <draw:custom-shape draw:style-name="gr26" draw:text-style-name="P1" draw:layer="layout" svg:width="0.432cm" svg:height="0.356cm" svg:x="15.915cm" svg:y="5.861cm">
        <text:p/>
        <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="?f0 0 ?f1 10800 0 21600 10800 21600 21600 21600 ?f7 10800" draw:text-areas="?f1 10800 ?f2 18000 ?f3 7200 ?f4 21600" draw:type="isosceles-triangle" draw:modifiers="10800" draw:enhanced-path="M ?f0 0 L 21600 21600 0 21600 Z N">
         <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -804,11 +804,11 @@
         <draw:handle draw:handle-position="$0 top" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600"/>
        </draw:enhanced-geometry>
       </draw:custom-shape>
-      <draw:line draw:style-name="gr21" draw:text-style-name="P1" draw:layer="layout" svg:x1="15.915cm" svg:y1="6.09cm" svg:x2="16.55cm" svg:y2="6.09cm">
+      <draw:line draw:style-name="gr21" draw:text-style-name="P1" draw:layer="layout" svg:x1="15.915cm" svg:y1="5.861cm" svg:x2="16.347cm" svg:y2="5.861cm">
        <text:p/>
       </draw:line>
      </draw:g>
-     <draw:line draw:style-name="gr21" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.232cm" svg:y1="5.404cm" svg:x2="16.232cm" svg:y2="7.309cm">
+     <draw:line draw:style-name="gr21" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.131cm" svg:y1="5.404cm" svg:x2="16.131cm" svg:y2="6.674cm">
       <text:p/>
      </draw:line>
     </draw:g>
