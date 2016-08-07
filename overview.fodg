@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-08-01T07:25:32.969962465</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M6S</meta:editing-duration><meta:editing-cycles>61</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-07-27T20:22:53.713108348</meta:print-date><meta:document-statistic meta:object-count="371"/></office:meta>
+ <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-08-01T07:25:32.969962465</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M6S</meta:editing-duration><meta:editing-cycles>61</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-07-27T20:22:53.713108348</meta:print-date><meta:document-statistic meta:object-count="369"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">1438</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-374</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">52198</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">25107</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">4185</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-972</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">52197</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">25106</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">1467</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">1553</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">44376</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">25021</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">4185</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-972</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">49489</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">23652</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -91,8 +91,8 @@
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">iwH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -363,7 +363,7 @@
    <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0.399cm" fo:min-width="2.33cm"/>
   </style:style>
   <style:style style:name="gr10" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
-   <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0.399cm" fo:min-width="2.123cm"/>
+   <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0.399cm" fo:min-width="3.274cm"/>
   </style:style>
   <style:style style:name="gr11" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
    <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0.399cm" fo:min-width="1.801cm"/>
@@ -384,42 +384,36 @@
    <style:graphic-properties fo:min-width="2.233cm"/>
   </style:style>
   <style:style style:name="gr17" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
-   <style:graphic-properties fo:min-width="2.178cm"/>
-  </style:style>
-  <style:style style:name="gr18" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
    <style:graphic-properties fo:min-width="3.575cm"/>
   </style:style>
-  <style:style style:name="gr19" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
+  <style:style style:name="gr18" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
    <style:graphic-properties fo:min-width="3.495cm"/>
   </style:style>
-  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
+  <style:style style:name="gr19" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
    <style:graphic-properties fo:min-width="1.403cm"/>
   </style:style>
-  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
+  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
    <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0.399cm" fo:min-width="2.093cm"/>
   </style:style>
-  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="Small_20_Unboxed_20_Text">
+  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="Small_20_Unboxed_20_Text">
    <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="0.658cm"/>
   </style:style>
-  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="Small_20_Unboxed_20_Text">
-   <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="0.688cm"/>
-  </style:style>
-  <style:style style:name="gr24" style:family="graphic" style:parent-style-name="Small_20_Unboxed_20_Text">
+  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="Small_20_Unboxed_20_Text">
    <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="0.756cm"/>
   </style:style>
-  <style:style style:name="gr25" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
+  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
    <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0.399cm" fo:min-width="1.844cm"/>
   </style:style>
-  <style:style style:name="gr26" style:family="graphic" style:parent-style-name="Small_20_Unboxed_20_Text">
+  <style:style style:name="gr24" style:family="graphic" style:parent-style-name="Small_20_Unboxed_20_Text">
    <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="0.713cm"/>
   </style:style>
-  <style:style style:name="gr27" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
+  <style:style style:name="gr25" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
    <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0.399cm" fo:min-width="1.776cm"/>
   </style:style>
-  <style:style style:name="gr28" style:family="graphic" style:parent-style-name="Switch_20_Label">
+  <style:style style:name="gr26" style:family="graphic" style:parent-style-name="Switch_20_Label">
    <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="5.095cm"/>
   </style:style>
-  <style:style style:name="gr29" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
+  <style:style style:name="gr27" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
    <style:graphic-properties draw:textarea-vertical-align="middle" draw:ole-draw-aspect="1"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
@@ -545,7 +539,7 @@
       <draw:handle draw:handle-position="$0 top" draw:handle-switched="true" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="10800"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.805cm" svg:height="0.399cm" svg:x="16.538cm" svg:y="2.185cm">
+    <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="2.805cm" svg:height="0.399cm" svg:x="16.466cm" svg:y="2.185cm">
      <draw:text-box>
       <text:p>Start (right mag)</text:p>
      </draw:text-box>
@@ -606,7 +600,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr10" draw:layer="layout" svg:width="3.774cm" svg:height="0.399cm" svg:x="16.538cm" svg:y="21.597cm">
      <draw:text-box>
-      <text:p>Nav/Com/GPS Radio 1</text:p>
+      <text:p>Com Radio 2</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:layer="layout" svg:width="2.301cm" svg:height="0.399cm" svg:x="16.538cm" svg:y="22.879cm">
@@ -628,7 +622,7 @@
     <draw:frame draw:style-name="gr14" draw:layer="layout" svg:width="0.9cm" svg:height="0.963cm" svg:x="9.51cm" svg:y="7.882cm">
      <draw:text-box>
       <text:p>A/P</text:p>
-      <text:p>5A</text:p>
+      <text:p>7A</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.735cm" svg:y1="2.43cm" svg:x2="16.214cm" svg:y2="2.43cm">
@@ -1145,87 +1139,71 @@
     <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.735cm" svg:y1="16.4cm" svg:x2="16.214cm" svg:y2="16.4cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr16" draw:layer="layout" svg:width="2.733cm" svg:height="0.607cm" svg:x="16.538cm" svg:y="9.774cm">
+    <draw:frame draw:style-name="gr16" draw:layer="layout" svg:width="3.11cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="9.774cm">
      <draw:text-box>
-      <text:p>USB Front Seat</text:p>
+      <text:p>USB Convenience</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr17" draw:layer="layout" svg:width="2.678cm" svg:height="0.607cm" svg:x="16.538cm" svg:y="11.003cm">
-     <draw:text-box>
-      <text:p>USB Rear Seat</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="gr18" draw:layer="layout" svg:width="4.075cm" svg:height="0.607cm" svg:x="16.538cm" svg:y="12.317cm">
+    <draw:frame draw:style-name="gr17" draw:layer="layout" svg:width="4.075cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="12.317cm">
      <draw:text-box>
       <text:p>Cabin Convenience Light</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr19" draw:layer="layout" svg:width="3.995cm" svg:height="0.607cm" svg:x="16.538cm" svg:y="25.386cm">
+    <draw:frame draw:style-name="gr18" draw:layer="layout" svg:width="3.995cm" svg:height="0.607cm" svg:x="16.538cm" svg:y="25.386cm">
      <draw:text-box>
       <text:p>Audio Panel / Intercomm</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr20" draw:layer="layout" svg:width="1.903cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="4.621cm">
+    <draw:frame draw:style-name="gr19" draw:layer="layout" svg:width="1.903cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="4.621cm">
      <draw:text-box>
       <text:p>Pitot Heat</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr21" draw:layer="layout" svg:width="2.593cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="7.216cm">
+    <draw:frame draw:style-name="gr20" draw:layer="layout" svg:width="2.593cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="7.216cm">
      <draw:text-box>
       <text:p>18AWG Yellow</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr22" draw:layer="layout" svg:width="1.158cm" svg:height="0.949cm" svg:x="9.51cm" svg:y="6.641cm">
+    <draw:frame draw:style-name="gr21" draw:layer="layout" svg:width="1.158cm" svg:height="0.949cm" svg:x="9.51cm" svg:y="6.641cm">
      <draw:text-box>
       <text:p>STRB</text:p>
       <text:p>7A</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr22" draw:layer="layout" svg:width="1.158cm" svg:height="0.963cm" svg:x="9.561cm" svg:y="9.152cm">
+    <draw:frame draw:style-name="gr21" draw:layer="layout" svg:width="1.158cm" svg:height="0.963cm" svg:x="9.561cm" svg:y="9.152cm">
      <draw:text-box>
-      <text:p>USBF</text:p>
+      <text:p>USB</text:p>
       <text:p>5A</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="1.188cm" svg:height="0.963cm" svg:x="9.561cm" svg:y="10.422cm">
-     <draw:text-box>
-      <text:p>USBR</text:p>
-      <text:p>5A</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="gr24" draw:layer="layout" svg:width="1.256cm" svg:height="0.963cm" svg:x="9.561cm" svg:y="11.692cm">
+    <draw:frame draw:style-name="gr22" draw:layer="layout" svg:width="1.256cm" svg:height="0.963cm" svg:x="9.561cm" svg:y="11.692cm">
      <draw:text-box>
       <text:p>CABIN</text:p>
       <text:p>5A</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr25" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="9.76cm">
+    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="9.76cm">
      <draw:text-box>
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr25" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="11.03cm">
+    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="12.3cm">
      <draw:text-box>
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr25" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="12.3cm">
-     <draw:text-box>
-      <text:p>20 AWG Red</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="gr26" draw:layer="layout" svg:width="1.213cm" svg:height="0.963cm" svg:x="9.51cm" svg:y="4.043cm">
+    <draw:frame draw:style-name="gr24" draw:layer="layout" svg:width="1.213cm" svg:height="0.963cm" svg:x="9.51cm" svg:y="4.043cm">
      <draw:text-box>
       <text:p>PITOT</text:p>
       <text:p>15A</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr25" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.235cm" svg:y="4.614cm">
+    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.235cm" svg:y="4.614cm">
      <draw:text-box>
       <text:p>12 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr22" draw:layer="layout" svg:width="1.158cm" svg:height="0.963cm" svg:x="9.538cm" svg:y="2.82cm">
+    <draw:frame draw:style-name="gr21" draw:layer="layout" svg:width="1.158cm" svg:height="0.963cm" svg:x="9.538cm" svg:y="2.82cm">
      <draw:text-box>
       <text:p>LAND</text:p>
       <text:p>7A</text:p>
@@ -1563,7 +1541,7 @@
     <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.723cm" svg:y1="8.788cm" svg:x2="16.202cm" svg:y2="8.788cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr25" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="8.49cm">
+    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="8.49cm">
      <draw:text-box>
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
@@ -1571,52 +1549,52 @@
     <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="11.723cm" svg:y1="6.247cm" svg:x2="16.202cm" svg:y2="6.247cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr27" draw:layer="layout" svg:width="2.276cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="5.975cm">
+    <draw:frame draw:style-name="gr25" draw:layer="layout" svg:width="2.276cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="5.975cm">
      <draw:text-box>
       <text:p>20AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr28" draw:layer="layout" svg:width="5.595cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="5.964cm">
+    <draw:frame draw:style-name="gr26" draw:layer="layout" svg:width="5.595cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="5.964cm">
      <draw:text-box>
       <text:p>Strobes &amp; Position Lights LIGHTS-1</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr28" draw:layer="layout" svg:width="5.595cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="7.21cm">
+    <draw:frame draw:style-name="gr26" draw:layer="layout" svg:width="5.595cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="7.21cm">
      <draw:text-box>
       <text:p>Strobes &amp; Position Lights LIGHTS-1</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr25" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.235cm" svg:y="3.387cm">
+    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.235cm" svg:y="3.387cm">
      <draw:text-box>
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr28" draw:layer="layout" svg:width="5.595cm" svg:height="0.607cm" svg:x="16.492cm" svg:y="3.449cm">
+    <draw:frame draw:style-name="gr26" draw:layer="layout" svg:width="5.595cm" svg:height="0.607cm" svg:x="16.492cm" svg:y="3.449cm">
      <draw:text-box>
       <text:p>Landing &amp; Taxi Lights LIGHTS-2</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr28" draw:layer="layout" svg:width="5.595cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="17.721cm">
+    <draw:frame draw:style-name="gr26" draw:layer="layout" svg:width="5.595cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="17.721cm">
      <draw:text-box>
       <text:p>iBOX INST-1</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr24" draw:layer="layout" svg:width="1.256cm" svg:height="0.963cm" svg:x="9.561cm" svg:y="17.193cm">
+    <draw:frame draw:style-name="gr22" draw:layer="layout" svg:width="1.256cm" svg:height="0.963cm" svg:x="9.561cm" svg:y="17.193cm">
      <draw:text-box>
       <text:p>EFIS</text:p>
       <text:p>5A</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr25" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="17.799cm">
+    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="17.799cm">
      <draw:text-box>
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr29" draw:layer="layout" svg:width="10.946cm" svg:height="9.447cm" svg:x="27.465cm" svg:y="3.624cm">
+    <draw:frame draw:style-name="gr27" draw:layer="layout" svg:width="10.619cm" svg:height="9.415cm" svg:x="27.465cm" svg:y="3.624cm">
      <text:p/>
      <draw:object>
       <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
-       <office:meta><dc:date>2016-08-07T07:46:37.318338257</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT26M17S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-08-07T07:20:16.394779878</meta:creation-date><meta:document-statistic meta:table-count="1" meta:cell-count="49" meta:object-count="0"/></office:meta>
+       <office:meta><dc:date>2016-08-07T08:31:51.767324246</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT26M17S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-08-07T08:31:30.358927377</meta:creation-date><meta:document-statistic meta:table-count="1" meta:cell-count="49" meta:object-count="0"/></office:meta>
        <office:settings>
         <config:config-item-set config:name="ooo:view-settings">
          <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -1636,8 +1614,8 @@
          <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
          <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
          <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-         <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
-         <config:config-item config:name="PrinterName" config:type="string"/>
+         <config:config-item config:name="PrinterSetup" config:type="base64Binary">iwH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+         <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
          <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
          <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
          <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
@@ -1701,7 +1679,7 @@
          <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
          <style:map style:condition="value()&gt;=0" style:apply-style-name="N104P0"/>
         </number:currency-style>
-        <number:number-style style:name="N120">
+        <number:number-style style:name="N121">
          <number:number number:decimal-places="1" number:min-integer-digits="1"/>
         </number:number-style>
         <style:style style:name="Default" style:family="table-cell">
@@ -1819,7 +1797,7 @@
            <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
           </style:region-left>
           <style:region-right>
-           <text:p><text:date style:data-style-name="N2" text:date-value="2016-08-07">00/00/0000</text:date>, <text:time>00:00:00</text:time></text:p>
+           <text:p><text:date style:data-style-name="N2" text:date-value="2016-08-07">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="08:27:46.270001231">00:00:00</text:time></text:p>
           </style:region-right>
          </style:header>
          <style:header-left style:display="false"/>
@@ -1996,7 +1974,7 @@
           </table:table-row>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>USB front + rear</text:p>
+            <text:p>USB convenience</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce7" office:value-type="float" office:value="1" calcext:value-type="float">
             <text:p>1.00</text:p>
@@ -2070,167 +2048,172 @@
        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
-       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
+       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
-       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
+       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
-       AA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAgAAAAAAAAACQQAAAAAAAAAAAD/
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       AwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAA
        AAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAA
        AP////8BcQACAKcAAAAkAAAAChQAABUASW50ZXJpb3IgbGlnaHRzIChlc3QpAAAVABUAAABq
        AAAAWAEAAMIBAACwAgAANAMAAJ4DAACMBAAAEAUAAHoFAADkBQAATgYAADwHAAAqCAAAlAgA
        AGgJAADSCQAAVgoAAEQLAAAYDAAAgQwAAAYNAAAVAEkAbgB0AGUAcgBpAG8AcgAgAGwAaQBn
        AGgAdABzACAAKABlAHMAdAApAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       OwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAAAAAA
+       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
-       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
+       MgAuADQAMACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQAC
        AAgAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEA
        BQAAAP////8BlwABAAUAAAD/////AXEAAgBMAAAAJAAAAEYcAAAIAFN1YnRvdGFsAAAIAAgA
        AAAjAQAALAIAADQDAAC5AwAAwQQAAEUFAAA0BgAAnQYAAAgAUwB1AGIAdABvAHQAYQBsAIoA
-       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
+       AQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIACAAAAAAAAAAJ
        BAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGX
        AAEABQAAAP////8BcQACADcAAABFHQAARhwAAAUAMjEuMDcAAAUABQAAAO4AAADcAQAARgIA
        ADQDAAAiBAAABQAyADEALgAwADcAcQACADcAAABZJgAARhwAAAUAMjguNjAAAAUABQAAAO4A
        AADcAQAARgIAADQDAAAiBAAABQAyADgALgA2ADAAigABAEEAAAADADsAAAAPAExpYmVyYXRp
-       b24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       b24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQAC
        AAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAhAAAACQA
        AAAWIAAAEABQaXRvdCBoZWF0IChlc3QpAAAQABAAAAAjAQAAjQEAAPcBAADlAgAATwMAALkD
        AACnBAAAlQUAAIMGAADtBgAAVwcAANsHAADJCAAAnQkAAAYKAACLCgAAEABQAGkAdABvAHQA
        IABoAGUAYQB0ACAAKABlAHMAdAApAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
-       AAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwAB
+       AAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwAB
        AAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACADcAAABFHQAAFiAAAAUA
        MTEuMDAAAAUABQAAAO4AAADcAQAARgIAADQDAAAiBAAABQAxADEALgAwADAAcQACADcAAABZ
        JgAAFiAAAAUAMTEuMDAAAAUABQAAAO4AAADcAQAARgIAADQDAAAiBAAABQAxADEALgAwADAA
-       igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAA
+       igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAA
        AAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////
-       AZcAAQAFAAAA/////wFxAAIAhAAAACQAAAAlIgAAEABVU0IgZnJvbnQgKyByZWFyAAAQABAA
-       AAA+AQAAYQIAAIQDAADtAwAAVwQAANwEAADKBQAAuAYAACIHAACLBwAAeggAAOMIAABoCQAA
-       VgoAAEQLAADICwAAEABVAFMAQgAgAGYAcgBvAG4AdAAgACsAIAByAGUAYQByAIoAAQBBAAAA
-       AwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAA
-       AAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAA
-       AP////8BcQACADAAAAAzHgAAJSIAAAQAMS4wMAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQA
-       MQAuADAAMABxAAIAMAAAAEcnAAAlIgAABAAyLjAwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAA
-       BAAyAC4AMAAwAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAF
-       AAIACAAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEA
-       AQAFAAAA/////wGXAAEABQAAAP////8BcQACADcAAAAkAAAANCQAAAUAVG90YWwAAAUABQAA
-       ANQAAADcAQAAYQIAAE8DAAC5AwAABQBUAG8AdABhAGwAigABAEEAAAADADsAAAAPAExpYmVy
-       YXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAIAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgA
-       AQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIANwAA
-       AEUdAAA0JAAABQAzMy4wNwAABQAFAAAA7gAAANwBAABGAgAANAMAACIEAAAFADMAMwAuADAA
-       NwBxAAIANwAAAFkmAAA0JAAABQA0MS42MAAABQAFAAAA7gAAANwBAABGAgAANAMAACIEAAAF
-       ADQAMQAuADYAMACLAAEAAgAAACAAggABACEAAAACABsAAAACAAIAAAAAAAAA5yQAAAEAAAAA
-       AMIqAAACAACMAAEAAAAAAIsAAQACAAAAIACCAAEAIQAAAAIAGwAAAAIAAgAAAAAAAADnJAAA
-       AQAAAAAAwioAAAIAAIwAAQAAAAAAiwABAAIAAAAgAIIAAQAhAAAAAgAbAAAAAgACAAAAAAAA
-       AOckAAABAAAAAADCKgAAAgAAjAABAAAAAACVAAEABAAAAAAAAACMAAEAAAAAAA==
+       AZcAAQAFAAAA/////wFxAAIAfQAAACQAAAAlIgAADwBVU0IgY29udmVuaWVuY2UAAA8ADwAA
+       AD4BAABhAgAAhAMAAO0DAADBBAAArwUAAJ0GAABxBwAAXwgAAE0JAAC3CQAApQoAAJMLAABn
+       DAAAVQ0AAA8AVQBTAEIAIABjAG8AbgB2AGUAbgBpAGUAbgBjAGUAigABAEEAAAADADsAAAAP
+       AExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMA
+       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFx
+       AAIAMAAAADMeAAAlIgAABAAxLjAwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAxAC4AMAAw
+       AHEAAgAwAAAARycAACUiAAAEADIuMDAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADIALgAw
+       ADAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAIAAAA
+       AAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/
+       ////AZcAAQAFAAAA/////wFxAAIANwAAACQAAAA0JAAABQBUb3RhbAAABQAFAAAA1AAAANwB
+       AABhAgAATwMAALkDAAAFAFQAbwB0AGEAbACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBT
+       YW5zAAAAAAAApwEAAEwABQACAAgAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAAB
+       AIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgA3AAAARR0AADQk
+       AAAFADMzLjA3AAAFAAUAAADuAAAA3AEAAEYCAAA0AwAAIgQAAAUAMwAzAC4AMAA3AHEAAgA3
+       AAAAWSYAADQkAAAFADQxLjYwAAAFAAUAAADuAAAA3AEAAEYCAAA0AwAAIgQAAAUANAAxAC4A
+       NgAwAIsAAQACAAAAIACCAAEAIQAAAAIAGwAAAAIAAgAAAAAAAADnJAAAAQAAAAAAwioAAAIA
+       AIwAAQAAAAAAiwABAAIAAAAgAIIAAQAhAAAAAgAbAAAAAgACAAAAAAAAAOckAAABAAAAAADC
+       KgAAAgAAjAABAAAAAACLAAEAAgAAACAAggABACEAAAACABsAAAACAAIAAAAAAAAA5yQAAAEA
+       AAAAAMIqAAACAACMAAEAAAAAAJUAAQAEAAAAAAAAAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr18" draw:layer="layout" svg:width="4.075cm" svg:height="0.607cm" svg:x="16.539cm" svg:y="13.518cm">
+    <draw:frame draw:style-name="gr17" draw:layer="layout" svg:width="4.075cm" svg:height="0.607cm" svg:x="16.539cm" svg:y="19.053cm">
      <draw:text-box>
       <text:p>ADS-B</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr10" draw:layer="layout" svg:width="3.774cm" svg:height="0.399cm" svg:x="16.538cm" svg:y="20.406cm">
+     <draw:text-box>
+      <text:p>Nav/Com/GPS Radio 1</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
