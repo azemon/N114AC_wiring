@@ -4,10 +4,10 @@
  <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-08-01T07:25:32.969962465</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M6S</meta:editing-duration><meta:editing-cycles>61</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-07-27T20:22:53.713108348</meta:print-date><meta:document-statistic meta:object-count="369"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">4185</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-972</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">52197</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">25106</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">27</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-982</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">52195</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">25104</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">4185</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-972</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">49489</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">23652</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-245</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-982</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">49508</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">23732</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -91,8 +91,8 @@
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">iwH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -381,7 +381,7 @@
    <style:graphic-properties draw:marker-end="Arrow" draw:marker-end-width="0.3cm" draw:fill="none" draw:textarea-vertical-align="middle"/>
   </style:style>
   <style:style style:name="gr16" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
-   <style:graphic-properties fo:min-width="2.233cm"/>
+   <style:graphic-properties fo:min-width="2.61cm"/>
   </style:style>
   <style:style style:name="gr17" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
    <style:graphic-properties fo:min-width="3.575cm"/>
@@ -497,7 +497,7 @@
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="0.635cm" svg:x="36.83cm" svg:y="24.765cm">
-     <text:p text:style-name="P1"><text:date style:data-style-name="D1" text:date-value="2016-08-07">8/7/16</text:date></text:p>
+     <text:p text:style-name="P1"><text:date style:data-style-name="D1" text:date-value="2016-08-08">8/8/16</text:date></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="0.635cm" svg:x="36.83cm" svg:y="25.4cm">
@@ -1590,17 +1590,17 @@
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr27" draw:layer="layout" svg:width="10.619cm" svg:height="9.415cm" svg:x="27.465cm" svg:y="3.624cm">
+    <draw:frame draw:style-name="gr27" draw:layer="layout" svg:width="9.998cm" svg:height="9.959cm" svg:x="27.468cm" svg:y="3.601cm">
      <text:p/>
      <draw:object>
       <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
-       <office:meta><dc:date>2016-08-07T08:31:51.767324246</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT26M17S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-08-07T08:31:30.358927377</meta:creation-date><meta:document-statistic meta:table-count="1" meta:cell-count="49" meta:object-count="0"/></office:meta>
+       <office:meta><dc:date>2016-08-08T17:51:01.889050180</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT27M42S</meta:editing-duration><meta:editing-cycles>15</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-08-08T17:50:47.049897071</meta:creation-date><meta:document-statistic meta:table-count="1" meta:cell-count="52" meta:object-count="0"/></office:meta>
        <office:settings>
         <config:config-item-set config:name="ooo:view-settings">
          <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
          <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
          <config:config-item config:name="VisibleAreaWidth" config:type="int">10946</config:config-item>
-         <config:config-item config:name="VisibleAreaHeight" config:type="int">9447</config:config-item>
+         <config:config-item config:name="VisibleAreaHeight" config:type="int">9976</config:config-item>
          <config:config-item-map-indexed config:name="Views">
           <config:config-item-map-entry>
            <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
@@ -1614,8 +1614,8 @@
          <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
          <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
          <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-         <config:config-item config:name="PrinterSetup" config:type="base64Binary">iwH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
-         <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
+         <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+         <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
          <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
          <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
          <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
@@ -1725,37 +1725,58 @@
          <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
         </style:style>
         <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
-         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
-         <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+         <style:table-cell-properties fo:background-color="#e6e6ff" fo:border="0.06pt solid #000000"/>
+         <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
         </style:style>
         <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
          <style:table-cell-properties fo:border="0.06pt solid #000000"/>
+         <style:text-properties fo:font-size="12pt" fo:font-weight="normal" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
         </style:style>
         <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
+         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
          <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
         </style:style>
-        <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
-         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000" style:vertical-align="middle"/>
+        <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
+         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
+        </style:style>
+        <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
+         <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+        </style:style>
+        <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties fo:background-color="#e6e6ff" style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000" style:vertical-align="middle"/>
          <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
          <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
         </style:style>
-        <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
-         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+        <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties fo:background-color="#e6e6ff" style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
          <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
          <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
         </style:style>
-        <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+        <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
+         <style:text-properties fo:font-size="12pt" fo:font-weight="normal" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+        </style:style>
+        <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
          <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
          <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
          <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
         </style:style>
-        <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+        <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
+         <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
          <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
          <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
          <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
         </style:style>
-        <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
+        <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default">
          <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default">
+         <style:text-properties fo:font-size="12pt" fo:font-weight="normal" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
         </style:style>
         <style:page-layout style:name="pm1">
          <style:page-layout-properties style:writing-mode="lr-tb"/>
@@ -1797,7 +1818,7 @@
            <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
           </style:region-left>
           <style:region-right>
-           <text:p><text:date style:data-style-name="N2" text:date-value="2016-08-07">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="08:27:46.270001231">00:00:00</text:time></text:p>
+           <text:p><text:date style:data-style-name="N2" text:date-value="2016-08-08">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="17:50:43.743836875">00:00:00</text:time></text:p>
           </style:region-right>
          </style:header>
          <style:header-left style:display="false"/>
@@ -1810,139 +1831,151 @@
        <office:body>
         <office:spreadsheet>
          <table:table table:name="Sheet1" table:style-name="ta1">
-          <table:table-column table:style-name="co1" table:default-cell-style-name="ce4"/>
-          <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="ce8"/>
-          <table:table-column table:style-name="co3" table:number-columns-repeated="1021" table:default-cell-style-name="ce4"/>
+          <table:table-column table:style-name="co1" table:default-cell-style-name="ce6"/>
+          <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="ce12"/>
+          <table:table-column table:style-name="co3" table:number-columns-repeated="1021" table:default-cell-style-name="ce6"/>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce1"/>
-           <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+           <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
             <text:p>Amps</text:p>
            </table:table-cell>
-           <table:covered-table-cell table:style-name="ce6"/>
-           <table:table-cell table:style-name="ce9" table:number-columns-repeated="1021"/>
-          </table:table-row>
-          <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-            <text:p>Device</text:p>
-           </table:table-cell>
-           <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
-            <text:p>Typical</text:p>
-           </table:table-cell>
-           <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
-            <text:p>Max</text:p>
-           </table:table-cell>
-           <table:table-cell table:style-name="ce9" table:number-columns-repeated="1021"/>
+           <table:covered-table-cell table:style-name="ce11"/>
+           <table:table-cell table:style-name="ce13" table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>Device</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+            <text:p>Typical</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+            <text:p>Max</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce13" table:number-columns-repeated="1021"/>
+          </table:table-row>
+          <table:table-row table:style-name="ro1">
+           <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+            <text:p>Battery contactor (est)</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="0.8" calcext:value-type="float">
+            <text:p>0.80</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="2" calcext:value-type="float">
+            <text:p>2.00</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce14" table:number-columns-repeated="1021"/>
+          </table:table-row>
+          <table:table-row table:style-name="ro1">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>GTN 650 main (radio 1)</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="float" office:value="1.6" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="1.6" calcext:value-type="float">
             <text:p>1.60</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="float" office:value="2.8" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="2.8" calcext:value-type="float">
             <text:p>2.80</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>GTN 650 com (radio 1)</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="float" office:value="0.45" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="0.45" calcext:value-type="float">
             <text:p>0.45</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="float" office:value="4.02" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="4.02" calcext:value-type="float">
             <text:p>4.02</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>GTN 650 nav (radio 1)</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="float" office:value="0.6" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="0.6" calcext:value-type="float">
             <text:p>0.60</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="float" office:value="1.16" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="1.16" calcext:value-type="float">
             <text:p>1.16</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>MGL system</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce7" office:value-type="float" office:value="2" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce10" office:value-type="float" office:value="2" calcext:value-type="float">
             <text:p>2.00</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>TT22 transponder</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce7" office:value-type="float" office:value="3" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce10" office:value-type="float" office:value="3" calcext:value-type="float">
             <text:p>3.00</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>NavWorx ADS600-EXP</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="float" office:value="0.52" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="0.52" calcext:value-type="float">
             <text:p>0.52</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="float" office:value="1.1" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="1.1" calcext:value-type="float">
             <text:p>1.10</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>PMA5000EX audio panel</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce7" office:value-type="float" office:value="2.5" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce10" office:value-type="float" office:value="2.5" calcext:value-type="float">
             <text:p>2.50</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>Interior lights (est)</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce7" office:value-type="float" office:value="1" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce10" office:value-type="float" office:value="1" calcext:value-type="float">
             <text:p>1.00</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>Autopilot servos</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" table:formula="of:=2*0.9" office:value-type="float" office:value="1.8" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" table:formula="of:=2*0.9" office:value-type="float" office:value="1.8" calcext:value-type="float">
             <text:p>1.80</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" table:formula="of:=2*1.71" office:value-type="float" office:value="3.42" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" table:formula="of:=2*1.71" office:value-type="float" office:value="3.42" calcext:value-type="float">
             <text:p>3.42</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>Aerosun landing lights</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce7" office:value-type="float" office:value="5.2" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce10" office:value-type="float" office:value="5.2" calcext:value-type="float">
             <text:p>5.20</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>Pulsar NSP lights</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce7" office:value-type="float" office:value="2.4" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce10" office:value-type="float" office:value="2.4" calcext:value-type="float">
             <text:p>2.40</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
@@ -1951,35 +1984,35 @@
            <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
             <text:p>Subtotal</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.B3:.B13])" office:value-type="float" office:value="21.07" calcext:value-type="float">
-            <text:p>21.07</text:p>
+           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.B3:.B14])" office:value-type="float" office:value="21.87" calcext:value-type="float">
+            <text:p>21.87</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C3:.C13])" office:value-type="float" office:value="28.6" calcext:value-type="float">
-            <text:p>28.60</text:p>
+           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.C3:.C14])" office:value-type="float" office:value="30.6" calcext:value-type="float">
+            <text:p>30.60</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" table:number-columns-repeated="1021"/>
+           <table:table-cell table:style-name="ce13" table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro2">
-           <table:table-cell table:style-name="ce3" table:number-columns-repeated="3"/>
+           <table:table-cell table:style-name="ce5" table:number-columns-repeated="3"/>
            <table:table-cell table:style-name="Default" table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>Pitot heat (est)</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce7" office:value-type="float" office:value="11" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce10" office:value-type="float" office:value="11" calcext:value-type="float">
             <text:p>11.00</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
             <text:p>USB convenience</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="float" office:value="1" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="1" calcext:value-type="float">
             <text:p>1.00</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="float" office:value="2" calcext:value-type="float">
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="2" calcext:value-type="float">
             <text:p>2.00</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
@@ -1988,15 +2021,15 @@
            <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
             <text:p>Total</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.B14:.B17])" office:value-type="float" office:value="33.07" calcext:value-type="float">
-            <text:p>33.07</text:p>
+           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.B15:.B18])" office:value-type="float" office:value="33.87" calcext:value-type="float">
+            <text:p>33.87</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C14:.C17])" office:value-type="float" office:value="41.6" calcext:value-type="float">
-            <text:p>41.60</text:p>
+           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.C15:.C18])" office:value-type="float" office:value="43.6" calcext:value-type="float">
+            <text:p>43.60</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" table:number-columns-repeated="1021"/>
+           <table:table-cell table:style-name="ce13" table:number-columns-repeated="1021"/>
           </table:table-row>
-          <table:table-row table:style-name="ro1" table:number-rows-repeated="1048557">
+          <table:table-row table:style-name="ro1" table:number-rows-repeated="1048556">
            <table:table-cell table:number-columns-repeated="1024"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
@@ -2008,201 +2041,214 @@
        </office:body>
       </office:document>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAcMqAADo
-       JAAAMAEAAJYAAQACAAAACQCLAAEAAgAAAP//lQABAAQAAAAAAAAAiwABAAIAAAAgAIIAAQAh
-       AAAAAgAbAAAAAgACAAAAAAAAAOckAAABAAAAAADCKgAAAgAAjAABAAAAAACEAAEABQAAAAAA
-       AAAAhAABAAUAAAAAAAAAAJYAAQACAAAACQCEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0A
-       AwAzAAAAAgAAAAAAAAAAAJUqAAAAAAAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA
-       AAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAABECAACVKgAAEQIA
-       AAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAA
-       AAAAAAAAbQADADMAAAACAAAAAAAiBAAAlSoAACIEAAAEABoAAAABAAAAAAAAAAAAAAAAAAAA
-       AAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAANAYA
-       AJUqAAA0BgAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAA
-       AYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAAEUIAACVKgAARQgAAAQAGgAAAAEAAAAAAAAA
-       AAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAAC
-       AAAAAABWCgAAlSoAAFYKAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEA
-       BQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAAZwwAAJUqAABnDAAABAAaAAAA
-       AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABt
-       AAMAMwAAAAIAAAAAAF4OAACVKgAAXg4AAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAE
-       AAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAAAABvEAAAlSoAAG8Q
-       AAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUA
-       AAAAAAAAAG0AAwAzAAAAAgAAAAAAgBIAAJUqAACAEgAABAAaAAAAAQAAAAAAAAAAAAAAAAAA
-       AAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAAJEU
-       AACVKgAAkRQAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAA
-       AAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAAAACiFgAAlSoAAKIWAAAEABoAAAABAAAAAAAA
-       AAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAA
-       AgAAAAAAtBgAAJUqAAC0GAAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAAB
-       AAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAAMUaAACVKgAAxRoAAAQAGgAA
-       AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAA
-       bQADADMAAAACAAAAAADWHAAAlSoAANYcAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-       BAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAAmB4AAJUqAACY
-       HgAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAF
-       AAAAAAAAAABtAAMAMwAAAAIAAAAAAKkgAACVKgAAqSAAAAQAGgAAAAEAAAAAAAAAAAAAAAAA
-       AAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAAAAC6
-       IgAAlSoAALoiAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAA
-       AAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAAyyQAAJUqAADLJAAABAAaAAAAAQAAAAAA
-       AAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAA
-       AAIAAAAAAMskAAAAAAAAAAAAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQA
-       AQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAH8YAADLJAAAfxgAAAAAAAAEABoA
-       AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAA
-       AG0AAwAzAAAAAgCXIQAAyyQAAJchAAARAgAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
-       AAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAlSoAAMskAACVKgAA
-       AAAAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIoAAQBBAAAAAwA7AAAADwBM
-       aWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIACAAAAAAAAAAJBAAAAAAAAAAAAP8DAAAA
-       AACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAJEAAQAFAAAA/////wGXAAEA
-       BQAAAP////8BcQACADAAAAA3HwAAmgEAAAQAQW1wcwAABAAEAAAAPgEAALACAAC5AwAApwQA
-       AAQAQQBtAHAAcwCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwA
-       BQACAAgAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCR
-       AAEABQAAAP////8BlwABAAUAAAD/////AXEAAgA+AAAAJAAAAJIDAAAGAERldmljZQAABgAG
-       AAAAPgEAACwCAAAaAwAAhAMAAHIEAABgBQAABgBEAGUAdgBpAGMAZQCKAAEAQQAAAAMAOwAA
-       AA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAgAAAAAAAAACQQAAAAAAAAAAAD/
-       AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////
-       AXEAAgBFAAAA7RsAAJIDAAAHAFR5cGljYWwAAAcABwAAANQAAADCAQAAygIAADQDAAAiBAAA
-       EAUAAHoFAAAHAFQAeQBwAGkAYwBhAGwAcQACACkAAABHJwAAkgMAAAMATWF4AAADAAMAAABY
-       AQAARgIAADQDAAADAE0AYQB4AIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
-       AACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
-       AAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACAK4AAAAkAAAAoQUAABYAR1RO
-       IDY1MCBtYWluIChyYWRpbyAxKQAAFgAWAAAAPgEAAEYCAACEAwAA7QMAANwEAADKBQAAuAYA
-       ACIHAAB6CAAAaAkAANIJAADACgAAKgsAAK4LAAAyDAAAIA0AAA4OAAB4DgAAZg8AANAPAAC+
-       EAAAQxEAABYARwBUAE4AIAA2ADUAMAAgAG0AYQBpAG4AIAAoAHIAYQBkAGkAbwAgADEAKQCK
-       AAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAA
-       CQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8B
-       lwABAAUAAAD/////AXEAAgAwAAAAMx4AAKEFAAAEADEuNjAAAAQABAAAAO4AAABYAQAARgIA
-       ADQDAAAEADEALgA2ADAAcQACADAAAABHJwAAoQUAAAQAMi44MAAABAAEAAAA7gAAAFgBAABG
-       AgAANAMAAAQAMgAuADgAMACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAA
-       pwEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
-       /////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgCnAAAAJAAAALAHAAAVAEdUTiA2
-       NTAgY29tIChyYWRpbyAxKQAAFQAVAAAAPgEAAEYCAACEAwAA7QMAANwEAADKBQAAuAYAACIH
-       AAD1BwAA4wgAADsKAAClCgAAKgsAAK4LAACcDAAAig0AAPQNAADiDgAATA8AADoQAAC+EAAA
-       FQBHAFQATgAgADYANQAwACAAYwBvAG0AIAAoAHIAYQBkAGkAbwAgADEAKQCKAAEAQQAAAAMA
-       OwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAA
-       AAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/
-       ////AXEAAgAwAAAAMx4AALAHAAAEADAuNDUAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADAA
-       LgA0ADUAcQACADAAAABHJwAAsAcAAAQANC4wMgAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQA
-       NAAuADAAMgCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQAC
-       AAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEA
-       BQAAAP////8BlwABAAUAAAD/////AXEAAgCnAAAAJAAAAL8JAAAVAEdUTiA2NTAgbmF2IChy
-       YWRpbyAxKQAAFQAVAAAAPgEAAEYCAACEAwAA7QMAANwEAADKBQAAuAYAACIHAAAQCAAA/ggA
-       ANIJAAA7CgAAwAoAAEQLAAAyDAAAIA0AAIoNAAB4DgAA4g4AANAPAABUEAAAFQBHAFQATgAg
-       ADYANQAwACAAbgBhAHYAIAAoAHIAYQBkAGkAbwAgADEAKQCKAAEAQQAAAAMAOwAAAA8ATGli
-       ZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAA
-       iAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgAw
-       AAAAMx4AAL8JAAAEADAuNjAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADAALgA2ADAAcQAC
-       ADAAAABHJwAAvwkAAAQAMS4xNgAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMQAuADEANgCK
-       AAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAA
-       CQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8B
-       lwABAAUAAAD/////AXEAAgBaAAAAJAAAAM4LAAAKAE1HTCBzeXN0ZW0AAAoACgAAAFgBAACV
-       AgAAaQMAANMDAACnBAAAegUAAE4GAAC4BgAApgcAAP4IAAAKAE0ARwBMACAAcwB5AHMAdABl
-       AG0AigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAA
-       AAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/
-       ////AZcAAQAFAAAA/////wFxAAIAMAAAADMeAADOCwAABAAyLjAwAAAEAAQAAADuAAAAWAEA
-       AEYCAAA0AwAABAAyAC4AMAAwAHEAAgAwAAAARycAAM4LAAAEADIuMDAAAAQABAAAAO4AAABY
-       AQAARgIAADQDAAAEADIALgAwADAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAA
-       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
-       ABkWAAAEADEuODAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADEALgA4ADAAcQACADAAAABH
-       JwAAGRYAAAQAMy40MgAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMwAuADQAMgCKAAEAQQAA
-       AAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAACQQAAAAA
-       AAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUA
-       AAD/////AXEAAgCuAAAAJAAAACgYAAAWAEFlcm9zdW4gbGFuZGluZyBsaWdodHMAABYAFgAA
-       ACMBAAARAgAAlQIAAIQDAABXBAAARQUAADQGAACdBgAABwcAAPUHAADjCAAA0gkAADsKAAAq
-       CwAAGAwAAIEMAADrDAAAVQ0AAEMOAAAxDwAAmw8AAG8QAAAWAEEAZQByAG8AcwB1AG4AIABs
-       AGEAbgBkAGkAbgBnACAAbABpAGcAaAB0AHMAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24g
-       U2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
-       AQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAMAAAADMeAAAo
-       GAAABAA1LjIwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAA1AC4AMgAwAHEAAgAwAAAARycA
-       ACgYAAAEADUuMjAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADUALgAyADAAigABAEEAAAAD
-       ADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAA
-       AAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA
-       /////wFxAAIAiwAAACQAAAA3GgAAEQBQdWxzYXIgTlNQIGxpZ2h0cwAAEQARAAAAIwEAABEC
-       AAB7AgAATwMAAD0EAADBBAAAKwUAAGgGAACLBwAAlAgAAP4IAABoCQAA0gkAAMAKAACuCwAA
-       GAwAAOsMAAARAFAAdQBsAHMAYQByACAATgBTAFAAIABsAGkAZwBoAHQAcwCKAAEAQQAAAAMA
-       OwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAA
-       AAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/
-       ////AXEAAgAwAAAAMx4AADcaAAAEADIuNDAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADIA
-       LgA0ADAAcQACADAAAABHJwAANxoAAAQAMi40MAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQA
-       MgAuADQAMACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQAC
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAcMqAAD5
+       JgAARAEAAJYAAQACAAAACQCLAAEAAgAAAP//lQABAAQAAAAAAAAAiwABAAIAAAAgAIIAAQAh
+       AAAAAgAbAAAAAgACAAAAAAAAAPgmAAABAAAAAADCKgAAAgAAjAABAAAAAACEAAEABQAAAAAA
+       AAAAhQABAAUAAAD/5uYAAWcAAQAQAAAAdxgAAAEAAACfKgAAEAIAAIUAAQAFAAAA/+bmAAFn
+       AAEAEAAAAAEAAAAQAgAAnyoAAB8EAACEAAEABQAAAAAAAAAAlgABAAIAAAAJAIQAAQAFAAAA
+       AAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAAAAAAAAAAlSoAAAAAAAAEABoAAAABAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAz
+       AAAAAgAAAAAAEQIAAJUqAAARAgAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA
+       hAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAACIEAACVKgAAIgQAAAQA
+       GgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAA
+       AAAAbQADADMAAAACAAAAAAA0BgAAlSoAADQGAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAARQgAAJUq
+       AABFCAAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUA
+       AQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAAFYKAACVKgAAVgoAAAQAGgAAAAEAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAA
+       AABnDAAAlSoAAGcMAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAA
+       AAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAAXg4AAJUqAABeDgAABAAaAAAAAQAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMA
+       MwAAAAIAAAAAAG8QAACVKgAAbxAAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA
+       AIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAAAACAEgAAlSoAAIASAAAE
+       ABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAA
+       AAAAAG0AAwAzAAAAAgAAAAAAkRQAAJUqAACRFAAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAAKIWAACV
+       KgAAohYAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGF
+       AAEABQAAAAAAAAAAbQADADMAAAACAAAAAAC0GAAAlSoAALQYAAAEABoAAAABAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAA
+       AAAAxRoAAJUqAADFGgAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUA
+       AAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAANYcAACVKgAA1hwAAAQAGgAAAAEA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQAD
+       ADMAAAACAAAAAADnHgAAlSoAAOceAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA
+       AACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAAqSAAAJUqAACpIAAA
+       BAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAA
+       AAAAAABtAAMAMwAAAAIAAAAAALoiAACVKgAAuiIAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAAAADLJAAA
+       lSoAAMskAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAAB
+       hQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAAwiYAAJUqAADCJgAABAAaAAAAAQAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIA
+       AAAAAMImAAAAAAAAAAAAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAF
+       AAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAH8YAADCJgAAfxgAAAAAAAAEABoAAAAB
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0A
+       AwAzAAAAAgCXIQAAwiYAAJchAAARAgAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA
+       AAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAlSoAAMImAACVKgAAAAAA
+       AAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJl
+       cmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIACAAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACI
+       AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAJEAAQAFAAAA/////wGXAAEABQAA
+       AP////8BcQACADAAAAA3HwAAmgEAAAQAQW1wcwAABAAEAAAAPgEAALACAAC5AwAApwQAAAQA
+       QQBtAHAAcwCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQAC
        AAgAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEA
-       BQAAAP////8BlwABAAUAAAD/////AXEAAgBMAAAAJAAAAEYcAAAIAFN1YnRvdGFsAAAIAAgA
-       AAAjAQAALAIAADQDAAC5AwAAwQQAAEUFAAA0BgAAnQYAAAgAUwB1AGIAdABvAHQAYQBsAIoA
-       AQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIACAAAAAAAAAAJ
-       BAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGX
-       AAEABQAAAP////8BcQACADcAAABFHQAARhwAAAUAMjEuMDcAAAUABQAAAO4AAADcAQAARgIA
-       ADQDAAAiBAAABQAyADEALgAwADcAcQACADcAAABZJgAARhwAAAUAMjguNjAAAAUABQAAAO4A
-       AADcAQAARgIAADQDAAAiBAAABQAyADgALgA2ADAAigABAEEAAAADADsAAAAPAExpYmVyYXRp
-       b24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAhAAAACQA
-       AAAWIAAAEABQaXRvdCBoZWF0IChlc3QpAAAQABAAAAAjAQAAjQEAAPcBAADlAgAATwMAALkD
-       AACnBAAAlQUAAIMGAADtBgAAVwcAANsHAADJCAAAnQkAAAYKAACLCgAAEABQAGkAdABvAHQA
-       IABoAGUAYQB0ACAAKABlAHMAdAApAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
-       AAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwAB
-       AAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACADcAAABFHQAAFiAAAAUA
-       MTEuMDAAAAUABQAAAO4AAADcAQAARgIAADQDAAAiBAAABQAxADEALgAwADAAcQACADcAAABZ
-       JgAAFiAAAAUAMTEuMDAAAAUABQAAAO4AAADcAQAARgIAADQDAAAiBAAABQAxADEALgAwADAA
-       igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAA
-       AAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////
-       AZcAAQAFAAAA/////wFxAAIAfQAAACQAAAAlIgAADwBVU0IgY29udmVuaWVuY2UAAA8ADwAA
-       AD4BAABhAgAAhAMAAO0DAADBBAAArwUAAJ0GAABxBwAAXwgAAE0JAAC3CQAApQoAAJMLAABn
-       DAAAVQ0AAA8AVQBTAEIAIABjAG8AbgB2AGUAbgBpAGUAbgBjAGUAigABAEEAAAADADsAAAAP
-       AExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMA
-       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFx
-       AAIAMAAAADMeAAAlIgAABAAxLjAwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAxAC4AMAAw
-       AHEAAgAwAAAARycAACUiAAAEADIuMDAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADIALgAw
-       ADAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAIAAAA
+       BQAAAP////8BlwABAAUAAAD/////AXEAAgA+AAAAJAAAAJIDAAAGAERldmljZQAABgAGAAAA
+       PgEAACwCAAAaAwAAhAMAAHIEAABgBQAABgBEAGUAdgBpAGMAZQCKAAEAQQAAAAMAOwAAAA8A
+       TGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAgAAAAAAAAACQQAAAAAAAAAAAD/AwAA
+       AAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEA
+       AgBFAAAA7RsAAJIDAAAHAFR5cGljYWwAAAcABwAAANQAAADCAQAAygIAADQDAAAiBAAAEAUA
+       AHoFAAAHAFQAeQBwAGkAYwBhAGwAcQACACkAAABHJwAAkgMAAAMATWF4AAADAAMAAABYAQAA
+       RgIAADQDAAADAE0AYQB4AIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACn
+       AQAAAQAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+       ////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACALUAAAAkAAAAoQUAABcAQmF0dGVy
+       eSBjb250YWN0b3IgKGVzdCkAABcAFwAAACMBAAARAgAAewIAAOUCAADTAwAAVwQAACsFAACV
+       BQAAaAYAAFcHAABFCAAArwgAAJ0JAABwCgAA2goAAMgLAABNDAAAtgwAADsNAAApDgAA/A4A
+       AGYPAADrDwAAFwBCAGEAdAB0AGUAcgB5ACAAYwBvAG4AdABhAGMAdABvAHIAIAAoAGUAcwB0
+       ACkAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAA
        AAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/
-       ////AZcAAQAFAAAA/////wFxAAIANwAAACQAAAA0JAAABQBUb3RhbAAABQAFAAAA1AAAANwB
-       AABhAgAATwMAALkDAAAFAFQAbwB0AGEAbACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBT
-       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
+       ////AZcAAQAFAAAA/////wFxAAIAMAAAADMeAAChBQAABAAwLjgwAAAEAAQAAADuAAAAWAEA
+       AEYCAAA0AwAABAAwAC4AOAAwAHEAAgAwAAAARycAAKEFAAAEADIuMDAAAAQABAAAAO4AAABY
+       AQAARgIAADQDAAAEADIALgAwADAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAA
+       AAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEA
+       BQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIArgAAACQAAACwBwAAFgBH
+       VE4gNjUwIG1haW4gKHJhZGlvIDEpAAAWABYAAAA+AQAARgIAAIQDAADtAwAA3AQAAMoFAAC4
+       BgAAIgcAAHoIAABoCQAA0gkAAMAKAAAqCwAArgsAADIMAAAgDQAADg4AAHgOAABmDwAA0A8A
+       AL4QAABDEQAAFgBHAFQATgAgADYANQAwACAAbQBhAGkAbgAgACgAcgBhAGQAaQBvACAAMQAp
+       AIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAA
+       AAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA////
+       /wGXAAEABQAAAP////8BcQACADAAAAAzHgAAsAcAAAQAMS42MAAABAAEAAAA7gAAAFgBAABG
+       AgAANAMAAAQAMQAuADYAMABxAAIAMAAAAEcnAACwBwAABAAyLjgwAAAEAAQAAADuAAAAWAEA
+       AEYCAAA0AwAABAAyAC4AOAAwAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
+       AACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
+       AAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACAKcAAAAkAAAAvwkAABUAR1RO
+       IDY1MCBjb20gKHJhZGlvIDEpAAAVABUAAAA+AQAARgIAAIQDAADtAwAA3AQAAMoFAAC4BgAA
+       IgcAAPUHAADjCAAAOwoAAKUKAAAqCwAArgsAAJwMAACKDQAA9A0AAOIOAABMDwAAOhAAAL4Q
+       AAAVAEcAVABOACAANgA1ADAAIABjAG8AbQAgACgAcgBhAGQAaQBvACAAMQApAIoAAQBBAAAA
+       AwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAA
+       AAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAA
+       AP////8BcQACADAAAAAzHgAAvwkAAAQAMC40NQAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQA
+       MAAuADQANQBxAAIAMAAAAEcnAAC/CQAABAA0LjAyAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAA
+       BAA0AC4AMAAyAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAF
+       AAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEA
+       AQAFAAAA/////wGXAAEABQAAAP////8BcQACAKcAAAAkAAAAzgsAABUAR1ROIDY1MCBuYXYg
+       KHJhZGlvIDEpAAAVABUAAAA+AQAARgIAAIQDAADtAwAA3AQAAMoFAAC4BgAAIgcAABAIAAD+
+       CAAA0gkAADsKAADACgAARAsAADIMAAAgDQAAig0AAHgOAADiDgAA0A8AAFQQAAAVAEcAVABO
+       ACAANgA1ADAAIABuAGEAdgAgACgAcgBhAGQAaQBvACAAMQApAIoAAQBBAAAAAwA7AAAADwBM
+       aWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAA
+       AACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQAC
+       ADAAAAAzHgAAzgsAAAQAMC42MAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMAAuADYAMABx
+       AAIAMAAAAEcnAADOCwAABAAxLjE2AAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAxAC4AMQA2
+       AIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAA
+       AAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA////
+       /wGXAAEABQAAAP////8BcQACAFoAAAAkAAAA3Q0AAAoATUdMIHN5c3RlbQAACgAKAAAAWAEA
+       AJUCAABpAwAA0wMAAKcEAAB6BQAATgYAALgGAACmBwAA/ggAAAoATQBHAEwAIABzAHkAcwB0
+       AGUAbQCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUA
+       AAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAA
+       AP////8BlwABAAUAAAD/////AXEAAgAwAAAAMx4AAN0NAAAEADIuMDAAAAQABAAAAO4AAABY
+       AQAARgIAADQDAAAEADIALgAwADAAcQACADAAAABHJwAA3Q0AAAQAMi4wMAAABAAEAAAA7gAA
+       AFgBAABGAgAANAMAAAQAMgAuADAAMACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5z
+       AAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcA
+       AQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgCEAAAAJAAAAOwPAAAQ
+       AFRUMjIgdHJhbnNwb25kZXIAABAAEAAAAAkBAAARAgAA/wIAAO0DAABXBAAAwQQAAEUFAAA0
+       BgAAIgcAAPUHAADjCAAA0gkAAMAKAACuCwAAnAwAACANAAAQAFQAVAAyADIAIAB0AHIAYQBu
+       AHMAcABvAG4AZABlAHIAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcB
+       AAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP//
+       //8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAMAAAADMeAADsDwAABAAzLjAwAAAE
+       AAQAAADuAAAAWAEAAEYCAAA0AwAABAAzAC4AMAAwAHEAAgAwAAAARycAAOwPAAAEADMuMDAA
+       AAQABAAAAO4AAABYAQAARgIAADQDAAAEADMALgAwADAAigABAEEAAAADADsAAAAPAExpYmVy
+       YXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgA
+       AQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAkgAA
+       ACQAAAD7EQAAEgBOYXZXb3J4IEFEUzYwMC1FWFAAABIAEgAAAD4BAAAsAgAA/wIAAHIEAABg
+       BQAA5AUAALgGAAAHBwAAKggAAGgJAACLCgAAeQsAAGcMAABVDQAA2Q0AAPwOAAAgEAAAQxEA
+       ABIATgBhAHYAVwBvAHIAeAAgAEEARABTADYAMAAwAC0ARQBYAFAAigABAEEAAAADADsAAAAP
+       AExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMA
+       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFx
+       AAIAMAAAADMeAAD7EQAABAAwLjUyAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAwAC4ANQAy
+       AHEAAgAwAAAARycAAPsRAAAEADEuMTAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADEALgAx
+       ADAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAA
+       AAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/
+       ////AZcAAQAFAAAA/////wFxAAIApwAAACQAAAAKFAAAFQBQTUE1MDAwRVggYXVkaW8gcGFu
+       ZWwAABUAFQAAACMBAAB7AgAAngMAAIwEAAB6BQAAaAYAAFcHAAB6CAAAnQkAAAYKAAD1CgAA
+       4wsAANEMAAA7DQAAKQ4AAJMOAACBDwAAbxAAAF0RAABLEgAAtRIAABUAUABNAEEANQAwADAA
+       MABFAFgAIABhAHUAZABpAG8AIABwAGEAbgBlAGwAigABAEEAAAADADsAAAAPAExpYmVyYXRp
+       b24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAMAAAADMe
+       AAAKFAAABAAyLjUwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAyAC4ANQAwAHEAAgAwAAAA
+       RycAAAoUAAAEADIuNTAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADIALgA1ADAAigABAEEA
+       AAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAA
+       AAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAF
+       AAAA/////wFxAAIApwAAACQAAAAZFgAAFQBJbnRlcmlvciBsaWdodHMgKGVzdCkAABUAFQAA
+       AGoAAABYAQAAwgEAALACAAA0AwAAngMAAIwEAAAQBQAAegUAAOQFAABOBgAAPAcAACoIAACU
+       CAAAaAkAANIJAABWCgAARAsAABgMAACBDAAABg0AABUASQBuAHQAZQByAGkAbwByACAAbABp
+       AGcAaAB0AHMAIAAoAGUAcwB0ACkAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAA
+       AAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEA
+       BQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAMAAAADMeAAAZFgAABAAx
+       LjAwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAxAC4AMAAwAHEAAgAwAAAARycAABkWAAAE
+       ADEuMDAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADEALgAwADAAigABAEEAAAADADsAAAAP
+       AExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMA
+       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFx
+       AAIAhAAAACQAAAAoGAAAEABBdXRvcGlsb3Qgc2Vydm9zAAAQABAAAAAjAQAAEQIAAHsCAABp
+       AwAAVwQAAMEEAAArBQAAGQYAAIMGAADtBgAAwAcAAK8IAAAzCQAABgoAAPUKAADICwAAEABB
+       AHUAdABvAHAAaQBsAG8AdAAgAHMAZQByAHYAbwBzAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0
+       aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEA
+       AgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACADAAAAAz
+       HgAAKBgAAAQAMS44MAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMQAuADgAMABxAAIAMAAA
+       AEcnAAAoGAAABAAzLjQyAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAzAC4ANAAyAIoAAQBB
+       AAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAA
+       AAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEA
+       BQAAAP////8BcQACAK4AAAAkAAAANxoAABYAQWVyb3N1biBsYW5kaW5nIGxpZ2h0cwAAFgAW
+       AAAAIwEAABECAACVAgAAhAMAAFcEAABFBQAANAYAAJ0GAAAHBwAA9QcAAOMIAADSCQAAOwoA
+       ACoLAAAYDAAAgQwAAOsMAABVDQAAQw4AADEPAACbDwAAbxAAABYAQQBlAHIAbwBzAHUAbgAg
+       AGwAYQBuAGQAaQBuAGcAIABsAGkAZwBoAHQAcwCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlv
+       biBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIA
+       AAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgAwAAAAMx4A
+       ADcaAAAEADUuMjAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADUALgAyADAAcQACADAAAABH
+       JwAANxoAAAQANS4yMAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQANQAuADIAMACKAAEAQQAA
+       AAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAA
+       AAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUA
+       AAD/////AXEAAgCLAAAAJAAAAEYcAAARAFB1bHNhciBOU1AgbGlnaHRzAAARABEAAAAjAQAA
+       EQIAAHsCAABPAwAAPQQAAMEEAAArBQAAaAYAAIsHAACUCAAA/ggAAGgJAADSCQAAwAoAAK4L
+       AAAYDAAA6wwAABEAUAB1AGwAcwBhAHIAIABOAFMAUAAgAGwAaQBnAGgAdABzAIoAAQBBAAAA
+       AwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAA
+       AAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAA
+       AP////8BcQACADAAAAAzHgAARhwAAAQAMi40MAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQA
+       MgAuADQAMABxAAIAMAAAAEcnAABGHAAABAAyLjQwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAA
+       BAAyAC4ANAAwAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAF
+       AAIACAAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEA
+       AQAFAAAA/////wGXAAEABQAAAP////8BcQACAEwAAAAkAAAAVR4AAAgAU3VidG90YWwAAAgA
+       CAAAACMBAAAsAgAANAMAALkDAADBBAAARQUAADQGAACdBgAACABTAHUAYgB0AG8AdABhAGwA
+       igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAIAAAAAAAA
+       AAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////
+       AZcAAQAFAAAA/////wFxAAIANwAAAEUdAABVHgAABQAyMS44NwAABQAFAAAA7gAAANwBAABG
+       AgAANAMAACIEAAAFADIAMQAuADgANwBxAAIANwAAAFkmAABVHgAABQAzMC42MAAABQAFAAAA
+       7gAAANwBAABGAgAANAMAACIEAAAFADMAMAAuADYAMACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
+       dGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAAB
+       AAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgCEAAAA
+       JAAAACUiAAAQAFBpdG90IGhlYXQgKGVzdCkAABAAEAAAACMBAACNAQAA9wEAAOUCAABPAwAA
+       uQMAAKcEAACVBQAAgwYAAO0GAABXBwAA2wcAAMkIAACdCQAABgoAAIsKAAAQAFAAaQB0AG8A
+       dAAgAGgAZQBhAHQAIAAoAGUAcwB0ACkAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2Fu
+       cwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
+       AAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIANwAAAEUdAAAlIgAA
+       BQAxMS4wMAAABQAFAAAA7gAAANwBAABGAgAANAMAACIEAAAFADEAMQAuADAAMABxAAIANwAA
+       AFkmAAAlIgAABQAxMS4wMAAABQAFAAAA7gAAANwBAABGAgAANAMAACIEAAAFADEAMQAuADAA
+       MACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAA
+       AAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP//
+       //8BlwABAAUAAAD/////AXEAAgB9AAAAJAAAADQkAAAPAFVTQiBjb252ZW5pZW5jZQAADwAP
+       AAAAPgEAAGECAACEAwAA7QMAAMEEAACvBQAAnQYAAHEHAABfCAAATQkAALcJAAClCgAAkwsA
+       AGcMAABVDQAADwBVAFMAQgAgAGMAbwBuAHYAZQBuAGkAZQBuAGMAZQCKAAEAQQAAAAMAOwAA
+       AA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/
+       AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////
+       AXEAAgAwAAAAMx4AADQkAAAEADEuMDAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADEALgAw
+       ADAAcQACADAAAABHJwAANCQAAAQAMi4wMAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMgAu
+       ADAAMACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAgA
+       AAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAA
+       AP////8BlwABAAUAAAD/////AXEAAgA3AAAAJAAAAEMmAAAFAFRvdGFsAAAFAAUAAADUAAAA
+       3AEAAGECAABPAwAAuQMAAAUAVABvAHQAYQBsAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9u
+       IFNhbnMAAAAAAACnAQAAAQAFAAIACAAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAA
+       AAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACADcAAABFHQAA
+       QyYAAAUAMzMuODcAAAUABQAAAO4AAADcAQAARgIAADQDAAAiBAAABQAzADMALgA4ADcAcQAC
+       ADcAAABZJgAAQyYAAAUANDMuNjAAAAUABQAAAO4AAADcAQAARgIAADQDAAAiBAAABQA0ADMA
+       LgA2ADAAiwABAAIAAAAgAIIAAQAhAAAAAgAbAAAAAgACAAAAAAAAAPgmAAABAAAAAADCKgAA
+       AgAAjAABAAAAAACLAAEAAgAAACAAggABACEAAAACABsAAAACAAIAAAAAAAAA+CYAAAEAAAAA
+       AMIqAAACAACMAAEAAAAAAIsAAQACAAAAIACCAAEAIQAAAAIAGwAAAAIAAgAAAAAAAAD4JgAA
+       AQAAAAAAwioAAAIAAIwAAQAAAAAAlQABAAQAAAAAAAAAjAABAAAAAAA=
       </office:binary-data>
      </draw:image>
     </draw:frame>
