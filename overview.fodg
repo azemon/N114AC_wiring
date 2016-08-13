@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-08-01T07:25:32.969962465</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M6S</meta:editing-duration><meta:editing-cycles>61</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-07-27T20:22:53.713108348</meta:print-date><meta:document-statistic meta:object-count="369"/></office:meta>
+ <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-08-01T07:25:32.969962465</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M6S</meta:editing-duration><meta:editing-cycles>61</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-08-12T04:49:52.026932350</meta:print-date><meta:document-statistic meta:object-count="369"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">27</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-982</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">52195</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">25104</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-216</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-972</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">52194</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">25103</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-245</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-982</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">49508</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">23732</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-216</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-972</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">49489</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">23652</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -91,8 +91,8 @@
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Officejet-7000</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">owH+/09mZmljZWpldC03MDAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VqZXQtNzAwMAAAAAAAAAAAAAAAAAAWAAMAxQAAAAEAAAALAJqqAABYbwAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlamV0LTcwMDAKb3JpZW50YXRpb249TGFuZHNjYXBlCmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpCLkZCAElucHV0U2xvdDpBdXRvAAASAENPTVBBVF9EVVBMRVhfTU9ERQ4ARFVQTEVYX1VOS05PV04=</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -497,7 +497,7 @@
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="0.635cm" svg:x="36.83cm" svg:y="24.765cm">
-     <text:p text:style-name="P1"><text:date style:data-style-name="D1" text:date-value="2016-08-08">8/8/16</text:date></text:p>
+     <text:p text:style-name="P1"><text:date style:data-style-name="D1" text:date-value="2016-08-12">8/12/16</text:date></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="3.81cm" svg:height="0.635cm" svg:x="36.83cm" svg:y="25.4cm">
@@ -1590,17 +1590,17 @@
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr27" draw:layer="layout" svg:width="9.998cm" svg:height="9.959cm" svg:x="27.468cm" svg:y="3.601cm">
+    <draw:frame draw:style-name="gr27" draw:layer="layout" svg:width="12.11cm" svg:height="12.157cm" svg:x="27.457cm" svg:y="3.537cm">
      <text:p/>
      <draw:object>
       <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
-       <office:meta><dc:date>2016-08-08T17:51:01.889050180</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT27M42S</meta:editing-duration><meta:editing-cycles>15</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-08-08T17:50:47.049897071</meta:creation-date><meta:document-statistic meta:table-count="1" meta:cell-count="52" meta:object-count="0"/></office:meta>
+       <office:meta><dc:date>2016-08-12T04:48:09.108442433</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT29M</meta:editing-duration><meta:editing-cycles>18</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-08-12T04:44:07.851914424</meta:creation-date><meta:document-statistic meta:table-count="1" meta:cell-count="65" meta:object-count="0"/></office:meta>
        <office:settings>
         <config:config-item-set config:name="ooo:view-settings">
          <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
          <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
          <config:config-item config:name="VisibleAreaWidth" config:type="int">10946</config:config-item>
-         <config:config-item config:name="VisibleAreaHeight" config:type="int">9976</config:config-item>
+         <config:config-item config:name="VisibleAreaHeight" config:type="int">12093</config:config-item>
          <config:config-item-map-indexed config:name="Views">
           <config:config-item-map-entry>
            <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
@@ -1614,8 +1614,8 @@
          <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
          <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
          <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-         <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
-         <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
+         <config:config-item config:name="PrinterSetup" config:type="base64Binary">iwH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+         <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
          <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
          <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
          <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
@@ -1818,7 +1818,7 @@
            <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
           </style:region-left>
           <style:region-right>
-           <text:p><text:date style:data-style-name="N2" text:date-value="2016-08-08">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="17:50:43.743836875">00:00:00</text:time></text:p>
+           <text:p><text:date style:data-style-name="N2" text:date-value="2016-08-12">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="04:44:03.463153775">00:00:00</text:time></text:p>
           </style:region-right>
          </style:header>
          <style:header-left style:display="false"/>
@@ -1904,10 +1904,58 @@
           </table:table-row>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
-            <text:p>MGL system</text:p>
+            <text:p>MGL Challenger 10.4”</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce10" office:value-type="float" office:value="2" calcext:value-type="float">
-            <text:p>2.00</text:p>
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="1.2" calcext:value-type="float">
+            <text:p>1.20</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="2.25" calcext:value-type="float">
+            <text:p>2.25</text:p>
+           </table:table-cell>
+           <table:table-cell office:value-type="string" calcext:value-type="string">
+            <text:p>http://kb.mglavionics.com/article/AA-00648/</text:p>
+           </table:table-cell>
+           <table:table-cell table:number-columns-repeated="1020"/>
+          </table:table-row>
+          <table:table-row table:style-name="ro1">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+            <text:p>MGL iBox</text:p>
+           </table:table-cell>
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce10" office:value-type="float" office:value="0.3" calcext:value-type="float">
+            <text:p>0.30</text:p>
+           </table:table-cell>
+           <table:table-cell table:number-columns-repeated="1021"/>
+          </table:table-row>
+          <table:table-row table:style-name="ro1">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+            <text:p>MGL SP-6</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="0.05" calcext:value-type="float">
+            <text:p>0.05</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="0.12" calcext:value-type="float">
+            <text:p>0.12</text:p>
+           </table:table-cell>
+           <table:table-cell table:number-columns-repeated="1021"/>
+          </table:table-row>
+          <table:table-row table:style-name="ro1">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+            <text:p>MGL SP-7</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="0.05" calcext:value-type="float">
+            <text:p>0.05</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce10" office:value-type="float" office:value="0.12" calcext:value-type="float">
+            <text:p>0.12</text:p>
+           </table:table-cell>
+           <table:table-cell table:number-columns-repeated="1021"/>
+          </table:table-row>
+          <table:table-row table:style-name="ro1">
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+            <text:p>MGL RDAC XF MAP</text:p>
+           </table:table-cell>
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce10" office:value-type="float" office:value="0.1" calcext:value-type="float">
+            <text:p>0.10</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
@@ -1984,11 +2032,11 @@
            <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
             <text:p>Subtotal</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.B3:.B14])" office:value-type="float" office:value="21.87" calcext:value-type="float">
-            <text:p>21.87</text:p>
+           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.B3:.B18])" office:value-type="float" office:value="21.57" calcext:value-type="float">
+            <text:p>21.57</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.C3:.C14])" office:value-type="float" office:value="30.6" calcext:value-type="float">
-            <text:p>30.60</text:p>
+           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.C3:.C18])" office:value-type="float" office:value="31.49" calcext:value-type="float">
+            <text:p>31.49</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce13" table:number-columns-repeated="1021"/>
           </table:table-row>
@@ -2021,15 +2069,15 @@
            <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
             <text:p>Total</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.B15:.B18])" office:value-type="float" office:value="33.87" calcext:value-type="float">
-            <text:p>33.87</text:p>
+           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.B19:.B22])" office:value-type="float" office:value="33.57" calcext:value-type="float">
+            <text:p>33.57</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.C15:.C18])" office:value-type="float" office:value="43.6" calcext:value-type="float">
-            <text:p>43.60</text:p>
+           <table:table-cell table:style-name="ce11" table:formula="of:=SUM([.C19:.C22])" office:value-type="float" office:value="44.49" calcext:value-type="float">
+            <text:p>44.49</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce13" table:number-columns-repeated="1021"/>
           </table:table-row>
-          <table:table-row table:style-name="ro1" table:number-rows-repeated="1048556">
+          <table:table-row table:style-name="ro1" table:number-rows-repeated="1048552">
            <table:table-cell table:number-columns-repeated="1024"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
@@ -2041,9 +2089,9 @@
        </office:body>
       </office:document>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAcMqAAD5
-       JgAARAEAAJYAAQACAAAACQCLAAEAAgAAAP//lQABAAQAAAAAAAAAiwABAAIAAAAgAIIAAQAh
-       AAAAAgAbAAAAAgACAAAAAAAAAPgmAAABAAAAAADCKgAAAgAAjAABAAAAAACEAAEABQAAAAAA
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAcMqAAA+
+       LwAAhAEAAJYAAQACAAAACQCLAAEAAgAAAP//lQABAAQAAAAAAAAAiwABAAIAAAAgAIIAAQAh
+       AAAAAgAbAAAAAgACAAAAAAAAAD0vAAABAAAAAADCKgAAAgAAjAABAAAAAACEAAEABQAAAAAA
        AAAAhQABAAUAAAD/5uYAAWcAAQAQAAAAdxgAAAEAAACfKgAAEAIAAIUAAQAFAAAA/+bmAAFn
        AAEAEAAAAAEAAAAQAgAAnyoAAB8EAACEAAEABQAAAAAAAAAAlgABAAIAAAAJAIQAAQAFAAAA
        AAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAAAAAAAAAAlSoAAAAAAAAEABoAAAABAAAA
@@ -2071,184 +2119,225 @@
        AAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAANYcAACVKgAA1hwAAAQAGgAAAAEA
        AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQAD
        ADMAAAACAAAAAADnHgAAlSoAAOceAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA
-       AACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAAqSAAAJUqAACpIAAA
+       AACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAA+CAAAJUqAAD4IAAA
        BAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAA
-       AAAAAABtAAMAMwAAAAIAAAAAALoiAACVKgAAuiIAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAA
-       AAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAAAADLJAAA
-       lSoAAMskAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAAB
-       hQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAAwiYAAJUqAADCJgAABAAaAAAAAQAAAAAAAAAA
+       AAAAAABtAAMAMwAAAAIAAAAAAAkjAACVKgAACSMAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAAAAAbJQAA
+       lSoAABslAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAAB
+       hQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAAEScAAJUqAAARJwAABAAaAAAAAQAAAAAAAAAA
        AAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIA
-       AAAAAMImAAAAAAAAAAAAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAF
-       AAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAH8YAADCJgAAfxgAAAAAAAAEABoAAAAB
+       AAAAANMoAACVKgAA0ygAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAF
+       AAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAACAAAAAADkKgAAlSoAAOQqAAAEABoAAAAB
        AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0A
-       AwAzAAAAAgCXIQAAwiYAAJchAAARAgAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA
-       AAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAlSoAAMImAACVKgAAAAAA
-       AAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIoAAQBBAAAAAwA7AAAADwBMaWJl
-       cmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIACAAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACI
-       AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAJEAAQAFAAAA/////wGXAAEABQAA
-       AP////8BcQACADAAAAA3HwAAmgEAAAQAQW1wcwAABAAEAAAAPgEAALACAAC5AwAApwQAAAQA
-       QQBtAHAAcwCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQAC
-       AAgAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEA
-       BQAAAP////8BlwABAAUAAAD/////AXEAAgA+AAAAJAAAAJIDAAAGAERldmljZQAABgAGAAAA
-       PgEAACwCAAAaAwAAhAMAAHIEAABgBQAABgBEAGUAdgBpAGMAZQCKAAEAQQAAAAMAOwAAAA8A
-       TGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAgAAAAAAAAACQQAAAAAAAAAAAD/AwAA
-       AAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEA
-       AgBFAAAA7RsAAJIDAAAHAFR5cGljYWwAAAcABwAAANQAAADCAQAAygIAADQDAAAiBAAAEAUA
-       AHoFAAAHAFQAeQBwAGkAYwBhAGwAcQACACkAAABHJwAAkgMAAAMATWF4AAADAAMAAABYAQAA
-       RgIAADQDAAADAE0AYQB4AIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACn
-       AQAAAQAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
-       ////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACALUAAAAkAAAAoQUAABcAQmF0dGVy
-       eSBjb250YWN0b3IgKGVzdCkAABcAFwAAACMBAAARAgAAewIAAOUCAADTAwAAVwQAACsFAACV
-       BQAAaAYAAFcHAABFCAAArwgAAJ0JAABwCgAA2goAAMgLAABNDAAAtgwAADsNAAApDgAA/A4A
-       AGYPAADrDwAAFwBCAGEAdAB0AGUAcgB5ACAAYwBvAG4AdABhAGMAdABvAHIAIAAoAGUAcwB0
-       ACkAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAA
-       AAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/
-       ////AZcAAQAFAAAA/////wFxAAIAMAAAADMeAAChBQAABAAwLjgwAAAEAAQAAADuAAAAWAEA
-       AEYCAAA0AwAABAAwAC4AOAAwAHEAAgAwAAAARycAAKEFAAAEADIuMDAAAAQABAAAAO4AAABY
-       AQAARgIAADQDAAAEADIALgAwADAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAA
-       AAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEA
-       BQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIArgAAACQAAACwBwAAFgBH
-       VE4gNjUwIG1haW4gKHJhZGlvIDEpAAAWABYAAAA+AQAARgIAAIQDAADtAwAA3AQAAMoFAAC4
-       BgAAIgcAAHoIAABoCQAA0gkAAMAKAAAqCwAArgsAADIMAAAgDQAADg4AAHgOAABmDwAA0A8A
-       AL4QAABDEQAAFgBHAFQATgAgADYANQAwACAAbQBhAGkAbgAgACgAcgBhAGQAaQBvACAAMQAp
-       AIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAA
-       AAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA////
-       /wGXAAEABQAAAP////8BcQACADAAAAAzHgAAsAcAAAQAMS42MAAABAAEAAAA7gAAAFgBAABG
-       AgAANAMAAAQAMQAuADYAMABxAAIAMAAAAEcnAACwBwAABAAyLjgwAAAEAAQAAADuAAAAWAEA
-       AEYCAAA0AwAABAAyAC4AOAAwAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
-       AACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
-       AAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACAKcAAAAkAAAAvwkAABUAR1RO
-       IDY1MCBjb20gKHJhZGlvIDEpAAAVABUAAAA+AQAARgIAAIQDAADtAwAA3AQAAMoFAAC4BgAA
-       IgcAAPUHAADjCAAAOwoAAKUKAAAqCwAArgsAAJwMAACKDQAA9A0AAOIOAABMDwAAOhAAAL4Q
-       AAAVAEcAVABOACAANgA1ADAAIABjAG8AbQAgACgAcgBhAGQAaQBvACAAMQApAIoAAQBBAAAA
-       AwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAA
-       AAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAA
-       AP////8BcQACADAAAAAzHgAAvwkAAAQAMC40NQAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQA
-       MAAuADQANQBxAAIAMAAAAEcnAAC/CQAABAA0LjAyAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAA
-       BAA0AC4AMAAyAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAF
-       AAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEA
-       AQAFAAAA/////wGXAAEABQAAAP////8BcQACAKcAAAAkAAAAzgsAABUAR1ROIDY1MCBuYXYg
-       KHJhZGlvIDEpAAAVABUAAAA+AQAARgIAAIQDAADtAwAA3AQAAMoFAAC4BgAAIgcAABAIAAD+
-       CAAA0gkAADsKAADACgAARAsAADIMAAAgDQAAig0AAHgOAADiDgAA0A8AAFQQAAAVAEcAVABO
-       ACAANgA1ADAAIABuAGEAdgAgACgAcgBhAGQAaQBvACAAMQApAIoAAQBBAAAAAwA7AAAADwBM
-       aWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAA
-       AACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQAC
-       ADAAAAAzHgAAzgsAAAQAMC42MAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMAAuADYAMABx
-       AAIAMAAAAEcnAADOCwAABAAxLjE2AAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAxAC4AMQA2
-       AIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAA
-       AAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA////
-       /wGXAAEABQAAAP////8BcQACAFoAAAAkAAAA3Q0AAAoATUdMIHN5c3RlbQAACgAKAAAAWAEA
-       AJUCAABpAwAA0wMAAKcEAAB6BQAATgYAALgGAACmBwAA/ggAAAoATQBHAEwAIABzAHkAcwB0
-       AGUAbQCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUA
-       AAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAA
-       AP////8BlwABAAUAAAD/////AXEAAgAwAAAAMx4AAN0NAAAEADIuMDAAAAQABAAAAO4AAABY
-       AQAARgIAADQDAAAEADIALgAwADAAcQACADAAAABHJwAA3Q0AAAQAMi4wMAAABAAEAAAA7gAA
-       AFgBAABGAgAANAMAAAQAMgAuADAAMACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5z
-       AAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcA
-       AQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgCEAAAAJAAAAOwPAAAQ
-       AFRUMjIgdHJhbnNwb25kZXIAABAAEAAAAAkBAAARAgAA/wIAAO0DAABXBAAAwQQAAEUFAAA0
-       BgAAIgcAAPUHAADjCAAA0gkAAMAKAACuCwAAnAwAACANAAAQAFQAVAAyADIAIAB0AHIAYQBu
-       AHMAcABvAG4AZABlAHIAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcB
-       AAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP//
-       //8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAMAAAADMeAADsDwAABAAzLjAwAAAE
-       AAQAAADuAAAAWAEAAEYCAAA0AwAABAAzAC4AMAAwAHEAAgAwAAAARycAAOwPAAAEADMuMDAA
-       AAQABAAAAO4AAABYAQAARgIAADQDAAAEADMALgAwADAAigABAEEAAAADADsAAAAPAExpYmVy
-       YXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgA
-       AQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAkgAA
-       ACQAAAD7EQAAEgBOYXZXb3J4IEFEUzYwMC1FWFAAABIAEgAAAD4BAAAsAgAA/wIAAHIEAABg
-       BQAA5AUAALgGAAAHBwAAKggAAGgJAACLCgAAeQsAAGcMAABVDQAA2Q0AAPwOAAAgEAAAQxEA
-       ABIATgBhAHYAVwBvAHIAeAAgAEEARABTADYAMAAwAC0ARQBYAFAAigABAEEAAAADADsAAAAP
-       AExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMA
-       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFx
-       AAIAMAAAADMeAAD7EQAABAAwLjUyAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAwAC4ANQAy
-       AHEAAgAwAAAARycAAPsRAAAEADEuMTAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADEALgAx
-       ADAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAA
-       AAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/
-       ////AZcAAQAFAAAA/////wFxAAIApwAAACQAAAAKFAAAFQBQTUE1MDAwRVggYXVkaW8gcGFu
-       ZWwAABUAFQAAACMBAAB7AgAAngMAAIwEAAB6BQAAaAYAAFcHAAB6CAAAnQkAAAYKAAD1CgAA
-       4wsAANEMAAA7DQAAKQ4AAJMOAACBDwAAbxAAAF0RAABLEgAAtRIAABUAUABNAEEANQAwADAA
-       MABFAFgAIABhAHUAZABpAG8AIABwAGEAbgBlAGwAigABAEEAAAADADsAAAAPAExpYmVyYXRp
-       b24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAMAAAADMe
-       AAAKFAAABAAyLjUwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAyAC4ANQAwAHEAAgAwAAAA
-       RycAAAoUAAAEADIuNTAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADIALgA1ADAAigABAEEA
-       AAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAA
-       AAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAF
-       AAAA/////wFxAAIApwAAACQAAAAZFgAAFQBJbnRlcmlvciBsaWdodHMgKGVzdCkAABUAFQAA
-       AGoAAABYAQAAwgEAALACAAA0AwAAngMAAIwEAAAQBQAAegUAAOQFAABOBgAAPAcAACoIAACU
-       CAAAaAkAANIJAABWCgAARAsAABgMAACBDAAABg0AABUASQBuAHQAZQByAGkAbwByACAAbABp
-       AGcAaAB0AHMAIAAoAGUAcwB0ACkAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAA
-       AAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEA
-       BQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAMAAAADMeAAAZFgAABAAx
-       LjAwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAxAC4AMAAwAHEAAgAwAAAARycAABkWAAAE
-       ADEuMDAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADEALgAwADAAigABAEEAAAADADsAAAAP
-       AExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMA
-       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFx
-       AAIAhAAAACQAAAAoGAAAEABBdXRvcGlsb3Qgc2Vydm9zAAAQABAAAAAjAQAAEQIAAHsCAABp
-       AwAAVwQAAMEEAAArBQAAGQYAAIMGAADtBgAAwAcAAK8IAAAzCQAABgoAAPUKAADICwAAEABB
-       AHUAdABvAHAAaQBsAG8AdAAgAHMAZQByAHYAbwBzAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0
-       aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEA
-       AgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACADAAAAAz
-       HgAAKBgAAAQAMS44MAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMQAuADgAMABxAAIAMAAA
-       AEcnAAAoGAAABAAzLjQyAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAzAC4ANAAyAIoAAQBB
-       AAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAA
-       AAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEA
-       BQAAAP////8BcQACAK4AAAAkAAAANxoAABYAQWVyb3N1biBsYW5kaW5nIGxpZ2h0cwAAFgAW
-       AAAAIwEAABECAACVAgAAhAMAAFcEAABFBQAANAYAAJ0GAAAHBwAA9QcAAOMIAADSCQAAOwoA
-       ACoLAAAYDAAAgQwAAOsMAABVDQAAQw4AADEPAACbDwAAbxAAABYAQQBlAHIAbwBzAHUAbgAg
-       AGwAYQBuAGQAaQBuAGcAIABsAGkAZwBoAHQAcwCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlv
-       biBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIA
-       AAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgAwAAAAMx4A
-       ADcaAAAEADUuMjAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADUALgAyADAAcQACADAAAABH
-       JwAANxoAAAQANS4yMAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQANQAuADIAMACKAAEAQQAA
-       AAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAA
-       AAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUA
-       AAD/////AXEAAgCLAAAAJAAAAEYcAAARAFB1bHNhciBOU1AgbGlnaHRzAAARABEAAAAjAQAA
-       EQIAAHsCAABPAwAAPQQAAMEEAAArBQAAaAYAAIsHAACUCAAA/ggAAGgJAADSCQAAwAoAAK4L
-       AAAYDAAA6wwAABEAUAB1AGwAcwBhAHIAIABOAFMAUAAgAGwAaQBnAGgAdABzAIoAAQBBAAAA
-       AwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAFAAIABQAAAAAAAAAJBAAAAAAA
-       AAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAA
-       AP////8BcQACADAAAAAzHgAARhwAAAQAMi40MAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQA
-       MgAuADQAMABxAAIAMAAAAEcnAABGHAAABAAyLjQwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAA
-       BAAyAC4ANAAwAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAAAQAF
-       AAIACAAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEA
-       AQAFAAAA/////wGXAAEABQAAAP////8BcQACAEwAAAAkAAAAVR4AAAgAU3VidG90YWwAAAgA
-       CAAAACMBAAAsAgAANAMAALkDAADBBAAARQUAADQGAACdBgAACABTAHUAYgB0AG8AdABhAGwA
-       igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAAABAAUAAgAIAAAAAAAA
+       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
+       BQAAAP////8BlwABAAUAAAD/////AXEAAgAwAAAANx8AAJoBAAAEAEFtcHMAAAQABAAAAD4B
+       AACwAgAAuQMAAKcEAAAEAEEAbQBwAHMAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2Fu
+       cwAAAAAAAKcBAABMAAUAAgAIAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
+       AAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAPgAAACQAAACSAwAA
+       BgBEZXZpY2UAAAYABgAAAD4BAAAsAgAAGgMAAIQDAAByBAAAYAUAAAYARABlAHYAaQBjAGUA
+       igABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAIAAAAAAAA
        AAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////
-       AZcAAQAFAAAA/////wFxAAIANwAAAEUdAABVHgAABQAyMS44NwAABQAFAAAA7gAAANwBAABG
-       AgAANAMAACIEAAAFADIAMQAuADgANwBxAAIANwAAAFkmAABVHgAABQAzMC42MAAABQAFAAAA
-       7gAAANwBAABGAgAANAMAACIEAAAFADMAMAAuADYAMACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
-       dGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAAB
-       AAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgCEAAAA
-       JAAAACUiAAAQAFBpdG90IGhlYXQgKGVzdCkAABAAEAAAACMBAACNAQAA9wEAAOUCAABPAwAA
-       uQMAAKcEAACVBQAAgwYAAO0GAABXBwAA2wcAAMkIAACdCQAABgoAAIsKAAAQAFAAaQB0AG8A
-       dAAgAGgAZQBhAHQAIAAoAGUAcwB0ACkAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2Fu
-       cwAAAAAAAKcBAAABAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
-       AAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIANwAAAEUdAAAlIgAA
-       BQAxMS4wMAAABQAFAAAA7gAAANwBAABGAgAANAMAACIEAAAFADEAMQAuADAAMABxAAIANwAA
-       AFkmAAAlIgAABQAxMS4wMAAABQAFAAAA7gAAANwBAABGAgAANAMAACIEAAAFADEAMQAuADAA
-       MACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAA
+       AZcAAQAFAAAA/////wFxAAIARQAAAO0bAACSAwAABwBUeXBpY2FsAAAHAAcAAADUAAAAwgEA
+       AMoCAAA0AwAAIgQAABAFAAB6BQAABwBUAHkAcABpAGMAYQBsAHEAAgApAAAARycAAJIDAAAD
+       AE1heAAAAwADAAAAWAEAAEYCAAA0AwAAAwBNAGEAeACKAAEAQQAAAAMAOwAAAA8ATGliZXJh
+       dGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAAB
+       AAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgC1AAAA
+       JAAAAKEFAAAXAEJhdHRlcnkgY29udGFjdG9yIChlc3QpAAAXABcAAAAjAQAAEQIAAHsCAADl
+       AgAA0wMAAFcEAAArBQAAlQUAAGgGAABXBwAARQgAAK8IAACdCQAAcAoAANoKAADICwAATQwA
+       ALYMAAA7DQAAKQ4AAPwOAABmDwAA6w8AABcAQgBhAHQAdABlAHIAeQAgAGMAbwBuAHQAYQBj
+       AHQAbwByACAAKABlAHMAdAApAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
+       AACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
+       AAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACADAAAAAzHgAAoQUAAAQAMC44
+       MAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMAAuADgAMABxAAIAMAAAAEcnAAChBQAABAAy
+       LjAwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAyAC4AMAAwAIoAAQBBAAAAAwA7AAAADwBM
+       aWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAA
+       AACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQAC
+       AK4AAAAkAAAAsAcAABYAR1ROIDY1MCBtYWluIChyYWRpbyAxKQAAFgAWAAAAPgEAAEYCAACE
+       AwAA7QMAANwEAADKBQAAuAYAACIHAAB6CAAAaAkAANIJAADACgAAKgsAAK4LAAAyDAAAIA0A
+       AA4OAAB4DgAAZg8AANAPAAC+EAAAQxEAABYARwBUAE4AIAA2ADUAMAAgAG0AYQBpAG4AIAAo
+       AHIAYQBkAGkAbwAgADEAKQCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAA
+       pwEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+       /////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgAwAAAAMx4AALAHAAAEADEuNjAA
+       AAQABAAAAO4AAABYAQAARgIAADQDAAAEADEALgA2ADAAcQACADAAAABHJwAAsAcAAAQAMi44
+       MAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMgAuADgAMACKAAEAQQAAAAMAOwAAAA8ATGli
+       ZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAA
+       iAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgCn
+       AAAAJAAAAL8JAAAVAEdUTiA2NTAgY29tIChyYWRpbyAxKQAAFQAVAAAAPgEAAEYCAACEAwAA
+       7QMAANwEAADKBQAAuAYAACIHAAD1BwAA4wgAADsKAAClCgAAKgsAAK4LAACcDAAAig0AAPQN
+       AADiDgAATA8AADoQAAC+EAAAFQBHAFQATgAgADYANQAwACAAYwBvAG0AIAAoAHIAYQBkAGkA
+       bwAgADEAKQCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQAC
+       AAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEA
+       BQAAAP////8BlwABAAUAAAD/////AXEAAgAwAAAAMx4AAL8JAAAEADAuNDUAAAQABAAAAO4A
+       AABYAQAARgIAADQDAAAEADAALgA0ADUAcQACADAAAABHJwAAvwkAAAQANC4wMgAABAAEAAAA
+       7gAAAFgBAABGAgAANAMAAAQANAAuADAAMgCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBT
+       YW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAAB
+       AIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgCnAAAAJAAAAM4L
+       AAAVAEdUTiA2NTAgbmF2IChyYWRpbyAxKQAAFQAVAAAAPgEAAEYCAACEAwAA7QMAANwEAADK
+       BQAAuAYAACIHAAAQCAAA/ggAANIJAAA7CgAAwAoAAEQLAAAyDAAAIA0AAIoNAAB4DgAA4g4A
+       ANAPAABUEAAAFQBHAFQATgAgADYANQAwACAAbgBhAHYAIAAoAHIAYQBkAGkAbwAgADEAKQCK
+       AAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAA
+       CQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8B
+       lwABAAUAAAD/////AXEAAgAwAAAAMx4AAM4LAAAEADAuNjAAAAQABAAAAO4AAABYAQAARgIA
+       ADQDAAAEADAALgA2ADAAcQACADAAAABHJwAAzgsAAAQAMS4xNgAABAAEAAAA7gAAAFgBAABG
+       AgAANAMAAAQAMQAuADEANgCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAA
+       pwEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+       /////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgCiAAAAJAAAAN0NAAAWAE1HTCBD
+       aGFsbGVuZ2VyIDEwLjTigJ0AABQAFAAAAFgBAACVAgAAaQMAANMDAAAQBQAA/wUAAO0GAABX
+       BwAAwAcAAK8IAACdCQAAiwoAAHkLAAD9CwAAZwwAAFUNAABDDgAArQ4AAJsPAAAgEAAAFABN
+       AEcATAAgAEMAaABhAGwAbABlAG4AZwBlAHIAIAAxADAALgA0AB0gigABAEEAAAADADsAAAAP
+       AExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMA
+       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFx
+       AAIAMAAAADMeAADdDQAABAAxLjIwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAxAC4AMgAw
+       AHEAAgAwAAAARycAAN0NAAAEADIuMjUAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADIALgAy
+       ADUAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAA
+       AAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/
+       ////AZcAAQAFAAAA/////wFxAAIATAAAACQAAADsDwAACABNR0wgaUJveAAACAAIAAAAWAEA
+       AJUCAABpAwAA0wMAAD0EAABgBQAATgYAACIHAAAIAE0ARwBMACAAaQBCAG8AeACKAAEAQQAA
+       AAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAACQQAAAAA
+       AAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUA
+       AAD/////AXEAAgAwAAAAMx4AAOwPAAAEADAuMzAAAAQABAAAAO4AAABYAQAARgIAADQDAAAE
+       ADAALgAzADAAcQACADAAAABHJwAA7A8AAAQAMC4zMAAABAAEAAAA7gAAAFgBAABGAgAANAMA
+       AAQAMAAuADMAMACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwA
+       BQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCR
+       AAEABQAAAP////8BlwABAAUAAAD/////AXEAAgBMAAAAJAAAAPsRAAAIAE1HTCBTUC02AAAI
+       AAgAAABYAQAAlQIAAGkDAADTAwAA9gQAABkGAACdBgAAiwcAAAgATQBHAEwAIABTAFAALQA2
+       AIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIABQAAAAAA
+       AAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA////
+       /wGXAAEABQAAAP////8BcQACADAAAAAzHgAA+xEAAAQAMC4wNQAABAAEAAAA7gAAAFgBAABG
+       AgAANAMAAAQAMAAuADAANQBxAAIAMAAAAEcnAAD7EQAABAAwLjEyAAAEAAQAAADuAAAAWAEA
+       AEYCAAA0AwAABAAwAC4AMQAyAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAA
+       AACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
+       AAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACAEwAAAAkAAAAChQAAAgATUdM
+       IFNQLTcAAAgACAAAAFgBAACVAgAAaQMAANMDAAD2BAAAGQYAAJ0GAACLBwAACABNAEcATAAg
+       AFMAUAAtADcAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUA
+       AgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQAB
+       AAUAAAD/////AZcAAQAFAAAA/////wFxAAIAMAAAADMeAAAKFAAABAAwLjA1AAAEAAQAAADu
+       AAAAWAEAAEYCAAA0AwAABAAwAC4AMAA1AHEAAgAwAAAARycAAAoUAAAEADAuMTIAAAQABAAA
+       AO4AAABYAQAARgIAADQDAAAEADAALgAxADIAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24g
+       U2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
+       AQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAfQAAACQAAAAZ
+       FgAADwBNR0wgUkRBQyBYRiBNQVAAAA8ADwAAAFgBAACVAgAAaQMAANMDAAAQBQAATgYAAHEH
+       AACvCAAAGAkAADsKAABECwAArgsAAAYNAAApDgAATA8AAA8ATQBHAEwAIABSAEQAQQBDACAA
+       WABGACAATQBBAFAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABM
+       AAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
+       kQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAMAAAADMeAAAZFgAABAAwLjEwAAAEAAQA
+       AADuAAAAWAEAAEYCAAA0AwAABAAwAC4AMQAwAHEAAgAwAAAARycAABkWAAAEADAuMTAAAAQA
+       BAAAAO4AAABYAQAARgIAADQDAAAEADAALgAxADAAigABAEEAAAADADsAAAAPAExpYmVyYXRp
+       b24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIAhAAAACQA
+       AAAoGAAAEABUVDIyIHRyYW5zcG9uZGVyAAAQABAAAAAJAQAAEQIAAP8CAADtAwAAVwQAAMEE
+       AABFBQAANAYAACIHAAD1BwAA4wgAANIJAADACgAArgsAAJwMAAAgDQAAEABUAFQAMgAyACAA
+       dAByAGEAbgBzAHAAbwBuAGQAZQByAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMA
+       AAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwAB
+       AAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACADAAAAAzHgAAKBgAAAQA
+       My4wMAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMwAuADAAMABxAAIAMAAAAEcnAAAoGAAA
+       BAAzLjAwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAzAC4AMAAwAIoAAQBBAAAAAwA7AAAA
+       DwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8D
+       AAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8B
+       cQACAJIAAAAkAAAANxoAABIATmF2V29yeCBBRFM2MDAtRVhQAAASABIAAAA+AQAALAIAAP8C
+       AAByBAAAYAUAAOQFAAC4BgAABwcAACoIAABoCQAAiwoAAHkLAABnDAAAVQ0AANkNAAD8DgAA
+       IBAAAEMRAAASAE4AYQB2AFcAbwByAHgAIABBAEQAUwA2ADAAMAAtAEUAWABQAIoAAQBBAAAA
+       AwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAA
+       AAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAA
+       AP////8BcQACADAAAAAzHgAANxoAAAQAMC41MgAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQA
+       MAAuADUAMgBxAAIAMAAAAEcnAAA3GgAABAAxLjEwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAA
+       BAAxAC4AMQAwAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAF
+       AAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEA
+       AQAFAAAA/////wGXAAEABQAAAP////8BcQACAKcAAAAkAAAARhwAABUAUE1BNTAwMEVYIGF1
+       ZGlvIHBhbmVsAAAVABUAAAAjAQAAewIAAJ4DAACMBAAAegUAAGgGAABXBwAAeggAAJ0JAAAG
+       CgAA9QoAAOMLAADRDAAAOw0AACkOAACTDgAAgQ8AAG8QAABdEQAASxIAALUSAAAVAFAATQBB
+       ADUAMAAwADAARQBYACAAYQB1AGQAaQBvACAAcABhAG4AZQBsAIoAAQBBAAAAAwA7AAAADwBM
+       aWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAA
+       AACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQAC
+       ADAAAAAzHgAARhwAAAQAMi41MAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMgAuADUAMABx
+       AAIAMAAAAEcnAABGHAAABAAyLjUwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAyAC4ANQAw
+       AIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIABQAAAAAA
+       AAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA////
+       /wGXAAEABQAAAP////8BcQACAKcAAAAkAAAAVR4AABUASW50ZXJpb3IgbGlnaHRzIChlc3Qp
+       AAAVABUAAABqAAAAWAEAAMIBAACwAgAANAMAAJ4DAACMBAAAEAUAAHoFAADkBQAATgYAADwH
+       AAAqCAAAlAgAAGgJAADSCQAAVgoAAEQLAAAYDAAAgQwAAAYNAAAVAEkAbgB0AGUAcgBpAG8A
+       cgAgAGwAaQBnAGgAdABzACAAKABlAHMAdAApAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0aW9u
+       IFNhbnMAAAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAA
+       AAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACADAAAAAzHgAA
+       VR4AAAQAMS4wMAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMQAuADAAMABxAAIAMAAAAEcn
+       AABVHgAABAAxLjAwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAABAAxAC4AMAAwAIoAAQBBAAAA
+       AwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAA
+       AAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAA
+       AP////8BcQACAIQAAAAkAAAAZCAAABAAQXV0b3BpbG90IHNlcnZvcwAAEAAQAAAAIwEAABEC
+       AAB7AgAAaQMAAFcEAADBBAAAKwUAABkGAACDBgAA7QYAAMAHAACvCAAAMwkAAAYKAAD1CgAA
+       yAsAABAAQQB1AHQAbwBwAGkAbABvAHQAIABzAGUAcgB2AG8AcwCKAAEAQQAAAAMAOwAAAA8A
+       TGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAA
+       AAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEA
+       AgAwAAAAMx4AAGQgAAAEADEuODAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADEALgA4ADAA
+       cQACADAAAABHJwAAZCAAAAQAMy40MgAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMwAuADQA
+       MgCKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAUAAAAA
        AAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP//
-       //8BlwABAAUAAAD/////AXEAAgB9AAAAJAAAADQkAAAPAFVTQiBjb252ZW5pZW5jZQAADwAP
-       AAAAPgEAAGECAACEAwAA7QMAAMEEAACvBQAAnQYAAHEHAABfCAAATQkAALcJAAClCgAAkwsA
-       AGcMAABVDQAADwBVAFMAQgAgAGMAbwBuAHYAZQBuAGkAZQBuAGMAZQCKAAEAQQAAAAMAOwAA
-       AA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/
-       AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////
-       AXEAAgAwAAAAMx4AADQkAAAEADEuMDAAAAQABAAAAO4AAABYAQAARgIAADQDAAAEADEALgAw
-       ADAAcQACADAAAABHJwAANCQAAAQAMi4wMAAABAAEAAAA7gAAAFgBAABGAgAANAMAAAQAMgAu
-       ADAAMACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAApwEAAAEABQACAAgA
-       AAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAA
-       AP////8BlwABAAUAAAD/////AXEAAgA3AAAAJAAAAEMmAAAFAFRvdGFsAAAFAAUAAADUAAAA
-       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
+       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
+       CAAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAF
+       AAAA/////wGXAAEABQAAAP////8BcQACADcAAABFHQAAkSYAAAUAMjEuNTcAAAUABQAAAO4A
+       AADcAQAARgIAADQDAAAiBAAABQAyADEALgA1ADcAcQACADcAAABZJgAAkSYAAAUAMzEuNDkA
+       AAUABQAAAO4AAADcAQAARgIAADQDAAAiBAAABQAzADEALgA0ADkAigABAEEAAAADADsAAAAP
+       AExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMA
+       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFx
+       AAIAhAAAACQAAABiKgAAEABQaXRvdCBoZWF0IChlc3QpAAAQABAAAAAjAQAAjQEAAPcBAADl
+       AgAATwMAALkDAACnBAAAlQUAAIMGAADtBgAAVwcAANsHAADJCAAAnQkAAAYKAACLCgAAEABQ
+       AGkAdABvAHQAIABoAGUAYQB0ACAAKABlAHMAdAApAIoAAQBBAAAAAwA7AAAADwBMaWJlcmF0
+       aW9uIFNhbnMAAAAAAACnAQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACIAAEA
+       AgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACADcAAABF
+       HQAAYioAAAUAMTEuMDAAAAUABQAAAO4AAADcAQAARgIAADQDAAAiBAAABQAxADEALgAwADAA
+       cQACADcAAABZJgAAYioAAAUAMTEuMDAAAAUABQAAAO4AAADcAQAARgIAADQDAAAiBAAABQAx
+       ADEALgAwADAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUA
+       AgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQAB
+       AAUAAAD/////AZcAAQAFAAAA/////wFxAAIAfQAAACQAAABxLAAADwBVU0IgY29udmVuaWVu
+       Y2UAAA8ADwAAAD4BAABhAgAAhAMAAO0DAADBBAAArwUAAJ0GAABxBwAAXwgAAE0JAAC3CQAA
+       pQoAAJMLAABnDAAAVQ0AAA8AVQBTAEIAIABjAG8AbgB2AGUAbgBpAGUAbgBjAGUAigABAEEA
+       AAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABMAAUAAgAFAAAAAAAAAAkEAAAA
+       AAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AkQABAAUAAAD/////AZcAAQAF
+       AAAA/////wFxAAIAMAAAADMeAABxLAAABAAxLjAwAAAEAAQAAADuAAAAWAEAAEYCAAA0AwAA
+       BAAxAC4AMAAwAHEAAgAwAAAARycAAHEsAAAEADIuMDAAAAQABAAAAO4AAABYAQAARgIAADQD
+       AAAEADIALgAwADAAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAKcBAABM
+       AAUAAgAIAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
+       kQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIANwAAACQAAACALgAABQBUb3RhbAAABQAF
+       AAAA1AAAANwBAABhAgAATwMAALkDAAAFAFQAbwB0AGEAbACKAAEAQQAAAAMAOwAAAA8ATGli
+       ZXJhdGlvbiBTYW5zAAAAAAAApwEAAEwABQACAAgAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAA
+       iAABAAIAAAABAIcAAQAFAAAA/////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgA3
+       AAAARR0AAIAuAAAFADMzLjU3AAAFAAUAAADuAAAA3AEAAEYCAAA0AwAAIgQAAAUAMwAzAC4A
+       NQA3AHEAAgA3AAAAWSYAAIAuAAAFADQ0LjQ5AAAFAAUAAADuAAAA3AEAAEYCAAA0AwAAIgQA
+       AAUANAA0AC4ANAA5AIsAAQACAAAAIACCAAEAIQAAAAIAGwAAAAIAAgAAAAAAAAA9LwAAAQAA
+       AAAAwioAAAIAAIwAAQAAAAAAiwABAAIAAAAgAIIAAQAhAAAAAgAbAAAAAgACAAAAAAAAAD0v
+       AAABAAAAAADCKgAAAgAAjAABAAAAAACLAAEAAgAAACAAggABACEAAAACABsAAAACAAIAAAAA
+       AAAAPS8AAAEAAAAAAMIqAAACAACMAAEAAAAAAJUAAQAEAAAAAAAAAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
     </draw:frame>
