@@ -4,10 +4,10 @@
  <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-07-31T13:55:19.614735754</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M54S</meta:editing-duration><meta:editing-cycles>65</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-08-13T13:45:47.970624560</meta:print-date><meta:document-statistic meta:object-count="477"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">2809</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">13392</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">9486</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">4545</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">11339</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">15214</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">9485</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">4544</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">1380</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-4228</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">52199</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">25021</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">11339</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">15214</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">34643</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">16556</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -91,8 +91,8 @@
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">gAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMApgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">iwH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -656,7 +656,7 @@
     <draw:frame draw:style-name="gr10" draw:layer="layout" svg:width="1.048cm" svg:height="0.963cm" svg:x="17.248cm" svg:y="10.384cm">
      <draw:text-box>
       <text:p>A/P</text:p>
-      <text:p>5A</text:p>
+      <text:p>7A</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr11" draw:text-style-name="P1" draw:layer="layout" svg:width="3.81cm" svg:height="3.81cm" svg:x="24.568cm" svg:y="14.392cm">
@@ -701,7 +701,7 @@
     </draw:g>
     <draw:frame draw:style-name="gr15" draw:layer="layout" svg:width="1.569cm" svg:height="0.607cm" svg:x="38.084cm" svg:y="24.83cm">
      <draw:text-box>
-      <text:p>8/16/16</text:p>
+      <text:p>8/19/16</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
