@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-07-31T13:55:19.614735754</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M54S</meta:editing-duration><meta:editing-cycles>65</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-07-27T20:22:53.713108348</meta:print-date><meta:document-statistic meta:object-count="351"/></office:meta>
+ <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-07-31T13:55:19.614735754</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M54S</meta:editing-duration><meta:editing-cycles>65</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-07-27T20:22:53.713108348</meta:print-date><meta:document-statistic meta:object-count="368"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">19746</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">22010</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">18900</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">10656</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">11133</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">22014</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">18899</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">10655</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">19746</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">22010</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">20971</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">10053</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">1984</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1929</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">45201</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">23317</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -91,8 +91,8 @@
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">iwH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -141,7 +141,10 @@
    </office:binary-data>
   </draw:fill-image>
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+  <draw:marker draw:name="Arrowheads_20_17" draw:display-name="Arrowheads 17" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+  <draw:marker draw:name="Arrowheads_20_18" draw:display-name="Arrowheads 18" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
   <draw:marker draw:name="Circle" svg:viewBox="0 0 1131 1131" svg:d="M462 1118l-102-29-102-51-93-72-72-93-51-102-29-102-13-105 13-102 29-106 51-102 72-89 93-72 102-50 102-34 106-9 101 9 106 34 98 50 93 72 72 89 51 102 29 106 13 102-13 105-29 102-51 102-72 93-93 72-98 51-106 29-101 13z"/>
+  <draw:stroke-dash draw:name="Dashed_20__28_var_29_" draw:display-name="Dashed (var)" draw:style="rect" draw:dots1="1" draw:dots1-length="197%" draw:distance="127%"/>
   <draw:stroke-dash draw:name="Dashed_20__28_var_29__20_1" draw:display-name="Dashed (var) 1" draw:style="rect" draw:dots1="1" draw:dots1-length="0.02cm" draw:dots2="1" draw:dots2-length="0.02cm" draw:distance="0.02cm"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
@@ -459,8 +462,36 @@
   <style:style style:name="gr42" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.357cm" fo:min-width="0.188cm"/>
   </style:style>
+  <style:style style:name="gr43" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.051cm" draw:marker-start="Circle" draw:marker-start-width="0.051cm" draw:marker-start-center="true" draw:marker-end="Circle" draw:marker-end-width="0.051cm" draw:marker-end-center="true" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.025cm" fo:padding-bottom="0.025cm" fo:padding-left="0.025cm" fo:padding-right="0.025cm"/>
+  </style:style>
+  <style:style style:name="gr44" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.051cm" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.025cm" fo:padding-bottom="0.025cm" fo:padding-left="0.025cm" fo:padding-right="0.025cm"/>
+  </style:style>
+  <style:style style:name="gr45" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.051cm" draw:marker-end="Arrowheads_20_17" draw:marker-end-width="0.153cm" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.025cm" fo:padding-bottom="0.025cm" fo:padding-left="0.025cm" fo:padding-right="0.025cm"/>
+  </style:style>
+  <style:style style:name="gr46" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.051cm" draw:marker-end="Arrowheads_20_18" draw:marker-end-width="0.153cm" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.025cm" fo:padding-bottom="0.025cm" fo:padding-left="0.025cm" fo:padding-right="0.025cm"/>
+  </style:style>
+  <style:style style:name="gr47" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:marker-start="" draw:marker-start-width="0.203cm" draw:textarea-vertical-align="middle" draw:shadow="hidden" draw:shadow-offset-x="0.203cm" draw:shadow-offset-y="0.203cm"/>
+  </style:style>
+  <style:style style:name="gr48" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:marker-start="" draw:marker-start-width="0.203cm" draw:marker-end="" draw:textarea-vertical-align="middle" draw:shadow="hidden" draw:shadow-offset-x="0.203cm" draw:shadow-offset-y="0.203cm"/>
+  </style:style>
+  <style:style style:name="gr49" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Dashed_20__28_var_29_" svg:stroke-width="0.025cm" draw:marker-start-width="0.24cm" draw:marker-end-width="0.24cm" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:padding-top="0.112cm" fo:padding-bottom="0.112cm" fo:padding-left="0.237cm" fo:padding-right="0.237cm"/>
+  </style:style>
   <style:style style:name="P1" style:family="paragraph">
    <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph">
+   <style:text-properties fo:font-size="10pt"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="10pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Arial1" fo:font-size="15.1999998092651pt" fo:font-style="normal" fo:font-weight="normal"/>
@@ -1773,6 +1804,55 @@
        <text:p>+</text:p>
       </draw:text-box>
      </draw:frame>
+    </draw:g>
+    <draw:g>
+     <draw:g>
+      <draw:line draw:style-name="gr43" draw:text-style-name="P1" draw:layer="layout" svg:x1="21.82cm" svg:y1="20.433cm" svg:x2="21.82cm" svg:y2="20.941cm">
+       <text:p/>
+      </draw:line>
+      <draw:line draw:style-name="gr43" draw:text-style-name="P1" draw:layer="layout" svg:x1="22.328cm" svg:y1="20.687cm" svg:x2="21.82cm" svg:y2="20.941cm">
+       <text:p/>
+      </draw:line>
+      <draw:line draw:style-name="gr43" draw:text-style-name="P1" draw:layer="layout" svg:x1="21.82cm" svg:y1="20.433cm" svg:x2="22.328cm" svg:y2="20.687cm">
+       <text:p/>
+      </draw:line>
+      <draw:line draw:style-name="gr43" draw:text-style-name="P1" draw:layer="layout" svg:x1="22.328cm" svg:y1="20.433cm" svg:x2="22.328cm" svg:y2="20.941cm">
+       <text:p/>
+      </draw:line>
+      <draw:line draw:style-name="gr43" draw:text-style-name="P1" draw:layer="layout" svg:x1="21.82cm" svg:y1="20.687cm" svg:x2="21.312cm" svg:y2="20.687cm">
+       <text:p/>
+      </draw:line>
+      <draw:line draw:style-name="gr43" draw:text-style-name="P1" draw:layer="layout" svg:x1="22.328cm" svg:y1="20.687cm" svg:x2="22.836cm" svg:y2="20.687cm">
+       <text:p/>
+      </draw:line>
+      <draw:circle draw:style-name="gr44" draw:text-style-name="P2" draw:layer="layout" svg:width="1.016cm" svg:height="1.016cm" draw:transform="rotate (1.5707963267949) translate (21.566cm 21.195cm)">
+       <text:p/>
+      </draw:circle>
+      <draw:line draw:style-name="gr45" draw:text-style-name="P3" draw:layer="layout" svg:x1="21.947cm" svg:y1="20.052cm" svg:x2="22.328cm" svg:y2="19.544cm">
+       <text:p/>
+      </draw:line>
+      <draw:line draw:style-name="gr46" draw:text-style-name="P3" draw:layer="layout" svg:x1="22.328cm" svg:y1="20.052cm" svg:x2="22.709cm" svg:y2="19.544cm">
+       <text:p/>
+      </draw:line>
+     </draw:g>
+     <draw:g>
+      <draw:line draw:style-name="gr47" draw:text-style-name="P1" draw:layer="layout" svg:x1="19.085cm" svg:y1="20.685cm" svg:x2="19.847cm" svg:y2="20.685cm">
+       <text:p/>
+      </draw:line>
+      <draw:line draw:style-name="gr48" draw:text-style-name="P1" draw:layer="layout" svg:x1="21.733cm" svg:y1="20.685cm" svg:x2="20.971cm" svg:y2="20.685cm">
+       <text:p/>
+      </draw:line>
+      <draw:line draw:style-name="gr6" draw:text-style-name="P1" draw:layer="layout" svg:x1="19.847cm" svg:y1="20.686cm" svg:x2="20.831cm" svg:y2="20.118cm">
+       <text:p/>
+      </draw:line>
+     </draw:g>
+     <draw:line draw:style-name="gr47" draw:text-style-name="P1" draw:layer="layout" svg:x1="22.582cm" svg:y1="20.685cm" svg:x2="23.344cm" svg:y2="20.685cm">
+      <text:p/>
+     </draw:line>
+     <draw:custom-shape draw:style-name="gr49" draw:text-style-name="P1" draw:layer="layout" svg:width="3.415cm" svg:height="1.927cm" svg:x="19.504cm" svg:y="19.416cm">
+      <text:p/>
+      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+     </draw:custom-shape>
     </draw:g>
    </draw:page>
   </office:drawing>

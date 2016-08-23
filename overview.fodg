@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-08-01T07:25:32.969962465</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M6S</meta:editing-duration><meta:editing-cycles>61</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-08-12T04:49:52.026932350</meta:print-date><meta:document-statistic meta:object-count="391"/></office:meta>
+ <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-08-01T07:25:32.969962465</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M6S</meta:editing-duration><meta:editing-cycles>61</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-08-12T04:49:52.026932350</meta:print-date><meta:document-statistic meta:object-count="394"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">3134</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">1343</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">8345</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">52190</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">25099</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">52189</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">25098</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,7 +37,7 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">3134</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">1343</config:config-item>
      <config:config-item config:name="VisibleAreaLeft" config:type="int">8345</config:config-item>
      <config:config-item config:name="VisibleAreaWidth" config:type="int">33379</config:config-item>
      <config:config-item config:name="VisibleAreaHeight" config:type="int">17219</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">pgH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAzAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgBJbnB1dFNsb3Q6QXV0bwBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">pgH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAzAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCkR1cGxleDpOb25lAElucHV0U2xvdDpBdXRvAFBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -1186,7 +1186,7 @@
       <text:p>3A</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="9.76cm">
+    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.308cm" svg:y="9.76cm">
      <draw:text-box>
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
@@ -1196,15 +1196,15 @@
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr24" draw:layer="layout" svg:width="1.213cm" svg:height="0.963cm" svg:x="9.51cm" svg:y="4.043cm">
+    <draw:frame draw:style-name="gr24" draw:layer="layout" svg:width="1.907cm" svg:height="0.963cm" svg:x="9.538cm" svg:y="4.043cm">
      <draw:text-box>
-      <text:p>PITOT</text:p>
+      <text:p>PITOT HEAT</text:p>
       <text:p>15A</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.235cm" svg:y="4.614cm">
      <draw:text-box>
-      <text:p>12 AWG Red</text:p>
+      <text:p>10 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr21" draw:layer="layout" svg:width="1.158cm" svg:height="0.963cm" svg:x="9.538cm" svg:y="2.82cm">
@@ -1594,11 +1594,11 @@
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr27" draw:layer="layout" svg:width="10.713cm" svg:height="12.4cm" svg:x="27.457cm" svg:y="3.537cm">
+    <draw:frame draw:style-name="gr27" draw:layer="layout" svg:width="10.387cm" svg:height="12.4cm" svg:x="27.457cm" svg:y="3.537cm">
      <text:p/>
      <draw:object>
       <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
-       <office:meta><dc:date>2016-08-22T02:07:29.913781776</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT29M33S</meta:editing-duration><meta:editing-cycles>21</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-08-22T02:06:59.244357364</meta:creation-date><meta:document-statistic meta:table-count="1" meta:cell-count="65" meta:object-count="0"/></office:meta>
+       <office:meta><dc:date>2016-08-22T19:26:51.349802919</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT29M33S</meta:editing-duration><meta:editing-cycles>22</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-08-22T19:26:01.754302015</meta:creation-date><meta:document-statistic meta:table-count="1" meta:cell-count="65" meta:object-count="0"/></office:meta>
        <office:settings>
         <config:config-item-set config:name="ooo:view-settings">
          <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -1618,7 +1618,7 @@
          <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
          <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
          <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-         <config:config-item config:name="PrinterSetup" config:type="base64Binary">pgH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAzAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgBJbnB1dFNsb3Q6QXV0bwBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+         <config:config-item config:name="PrinterSetup" config:type="base64Binary">pgH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAzAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCkR1cGxleDpOb25lAElucHV0U2xvdDpBdXRvAFBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
          <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
          <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
          <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
@@ -1816,7 +1816,7 @@
            <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
           </style:region-left>
           <style:region-right>
-           <text:p><text:date style:data-style-name="N2" text:date-value="2016-08-22">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="02:05:27.573640306">00:00:00</text:time></text:p>
+           <text:p><text:date style:data-style-name="N2" text:date-value="2016-08-22">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="19:23:34.611581039">00:00:00</text:time></text:p>
           </style:region-right>
          </style:header>
          <style:header-left style:display="false"/>
@@ -2044,7 +2044,7 @@
           </table:table-row>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
-            <text:p>Pitot heat (est)</text:p>
+            <text:p>Pitot heat</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="2" table:style-name="ce9" office:value-type="float" office:value="10" calcext:value-type="float">
             <text:p>10.00</text:p>
@@ -2308,35 +2308,34 @@
        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
-       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
-       AACVAAEABAAAAAAAAACMAAEAAAAAAA==
+       AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACAFoAAAAkAAAAeSQAAAoAUGl0b3QgaGVh
+       dAAACgAKAAAA1AAAACMBAAByAQAALAIAAHsCAADKAgAAhAMAAD0EAAD2BAAARQUAAAoAUABp
+       AHQAbwB0ACAAaABlAGEAdACKAAEAQQAAAAMAOwAAAA8ATGliZXJhdGlvbiBTYW5zAAAAAAAA
+       PgEAAEwABQACAAUAAAAAAAAACQQAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+       /////wCRAAEABQAAAP////8BlwABAAUAAAD/////AXEAAgA3AAAAMx4AAHkkAAAFADEwLjAw
+       AAAFAAUAAAC5AAAAcgEAAMIBAAB7AgAANAMAAAUAMQAwAC4AMAAwAHEAAgA3AAAARycAAHkk
+       AAAFADEwLjAwAAAFAAUAAAC5AAAAcgEAAMIBAAB7AgAANAMAAAUAMQAwAC4AMAAwAIoAAQBB
+       AAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAA+AQAATAAFAAIABQAAAAAAAAAJBAAA
+       AAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEA
+       BQAAAP////8BcQACAH0AAAAkAAAAOyYAAA8AVVNCIGNvbnZlbmllbmNlAAAPAA8AAADuAAAA
+       wgEAAJUCAADlAgAAhAMAAD0EAAD2BAAAlQUAAE4GAAAHBwAAVwcAABAIAADJCAAAaAkAACEK
+       AAAPAFUAUwBCACAAYwBvAG4AdgBlAG4AaQBlAG4AYwBlAIoAAQBBAAAAAwA7AAAADwBMaWJl
+       cmF0aW9uIFNhbnMAAAAAAAA+AQAATAAFAAIABQAAAAAAAAAJBAAAAAAAAAAAAP8DAAAAAACI
+       AAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGXAAEABQAAAP////8BcQACADAA
+       AADsHgAAOyYAAAQAMS4wMAAABAAEAAAAuQAAAAkBAADCAQAAewIAAAQAMQAuADAAMABxAAIA
+       MAAAAAAoAAA7JgAABAAyLjAwAAAEAAQAAAC5AAAACQEAAMIBAAB7AgAABAAyAC4AMAAwAIoA
+       AQBBAAAAAwA7AAAADwBMaWJlcmF0aW9uIFNhbnMAAAAAAAA+AQAATAAFAAIACAAAAAAAAAAJ
+       BAAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AJEAAQAFAAAA/////wGX
+       AAEABQAAAP////8BcQACADcAAAAkAAAA/ScAAAUAVG90YWwAAAUABQAAAJ8AAABYAQAAwgEA
+       AHsCAADKAgAABQBUAG8AdABhAGwAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAA
+       AAAAAD4BAABMAAUAAgAIAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEA
+       BQAAAP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIANwAAADMeAAD9JwAABQAz
+       Mi41NwAABQAFAAAAuQAAAHIBAADCAQAAewIAADQDAAAFADMAMgAuADUANwBxAAIANwAAAEcn
+       AAD9JwAABQA0My40OQAABQAFAAAAuQAAAHIBAADCAQAAewIAADQDAAAFADQAMwAuADQAOQCL
+       AAEAAgAAACAAggABACEAAAACABsAAAACAAIAAAAAAAAAoC8AAAEAAAAAAMIqAAACAACMAAEA
+       AAAAAIsAAQACAAAAIACCAAEAIQAAAAIAGwAAAAIAAgAAAAAAAACgLwAAAQAAAAAAwioAAAIA
+       AIwAAQAAAAAAiwABAAIAAAAgAIIAAQAhAAAAAgAbAAAAAgACAAAAAAAAAKAvAAABAAAAAADC
+       KgAAAgAAjAABAAAAAACVAAEABAAAAAAAAACMAAEAAAAAAA==
       </office:binary-data>
      </draw:image>
     </draw:frame>
@@ -2438,6 +2437,22 @@
     <draw:frame draw:style-name="gr30" draw:layer="layout" svg:width="1.569cm" svg:height="0.607cm" svg:x="37.986cm" svg:y="24.815cm">
      <draw:text-box>
       <text:p>8/22/16</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr21" draw:layer="layout" svg:width="2.013cm" svg:height="0.963cm" svg:x="9.538cm" svg:y="10.421cm">
+     <draw:text-box>
+      <text:p>PITOT WARN</text:p>
+      <text:p>3A</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.576cm" svg:height="0.399cm" svg:x="12.194cm" svg:y="11.029cm">
+     <draw:text-box>
+      <text:p>20 AWG White</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr19" draw:layer="layout" svg:width="4.172cm" svg:height="0.607cm" svg:x="16.492cm" svg:y="11.018cm">
+     <draw:text-box>
+      <text:p>Pitot &amp; AOA Probe INST-4</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
