@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-08-01T07:25:32.969962465</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M6S</meta:editing-duration><meta:editing-cycles>61</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-08-12T04:49:52.026932350</meta:print-date><meta:document-statistic meta:object-count="397"/></office:meta>
+ <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2016-08-01T07:25:32.969962465</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H47M6S</meta:editing-duration><meta:editing-cycles>61</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2016-08-12T04:49:52.026932350</meta:print-date><meta:document-statistic meta:object-count="417"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">20416</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">25917</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">52187</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">25096</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">52186</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">25095</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">20416</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">25917</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">14510</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">6326</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">1499</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">1588</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">45362</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">24960</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">pgH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAzAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCkR1cGxleDpOb25lAElucHV0U2xvdDpBdXRvAFBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">pgH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAzAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgBJbnB1dFNsb3Q6QXV0bwBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -1600,7 +1600,7 @@
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr27" draw:layer="layout" svg:width="12.207cm" svg:height="12.4cm" svg:x="27.457cm" svg:y="3.537cm">
+    <draw:frame draw:style-name="gr27" draw:layer="layout" svg:width="11.846cm" svg:height="12.4cm" svg:x="27.457cm" svg:y="3.537cm">
      <text:p/>
      <draw:object>
       <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
@@ -1624,7 +1624,7 @@
          <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
          <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
          <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-         <config:config-item config:name="PrinterSetup" config:type="base64Binary">pgH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAzAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCkR1cGxleDpOb25lAElucHV0U2xvdDpBdXRvAFBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+         <config:config-item config:name="PrinterSetup" config:type="base64Binary">pgH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAzAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgBJbnB1dFNsb3Q6QXV0bwBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
          <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
          <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
          <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
@@ -1729,57 +1729,112 @@
         </number:number-style>
         <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
          <style:table-cell-properties fo:border="0.06pt solid #000000"/>
-         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
-        </style:style>
-        <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
-         <style:table-cell-properties fo:background-color="#e6e6ff" fo:border="0.06pt solid #000000"/>
-         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
-        </style:style>
-        <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
-         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
-         <style:text-properties fo:font-size="9pt" fo:font-weight="normal" style:font-size-asian="9pt" style:font-weight-asian="normal" style:font-size-complex="9pt" style:font-weight-complex="normal"/>
-        </style:style>
-        <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
-         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
-         <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-        </style:style>
-        <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
-         <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
-        </style:style>
-        <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
-         <style:table-cell-properties fo:background-color="#e6e6ff" style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000" style:vertical-align="middle"/>
-         <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
-         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
-        </style:style>
-        <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
-         <style:table-cell-properties fo:background-color="#e6e6ff" style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
-         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
-         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
-        </style:style>
-        <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
-         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
-         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
-         <style:text-properties fo:font-size="9pt" fo:font-weight="normal" style:font-size-asian="9pt" style:font-weight-asian="normal" style:font-size-complex="9pt" style:font-weight-complex="normal"/>
-        </style:style>
-        <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
-         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
-         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
-         <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
         </style:style>
         <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
          <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
          <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
-         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
         </style:style>
         <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
          <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
          <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
-         <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
         </style:style>
         <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default">
-         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
         </style:style>
         <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default">
+         <style:text-properties style:text-position="" fo:font-size="9pt" fo:font-weight="normal" style:font-size-asian="9pt" style:font-weight-asian="normal" style:font-size-complex="9pt" style:font-weight-complex="normal"/>
+        </style:style>
+        <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
+         <style:table-cell-properties fo:background-color="#e6e6ff" fo:border="0.06pt solid #000000"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
+         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" fo:font-weight="normal" style:font-size-asian="9pt" style:font-weight-asian="normal" style:font-size-complex="9pt" style:font-weight-complex="normal"/>
+        </style:style>
+        <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
+         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+        </style:style>
+        <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
+         <style:text-properties style:text-position="" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+        </style:style>
+        <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties fo:background-color="#e6e6ff" style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000" style:vertical-align="middle"/>
+         <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties fo:background-color="#e6e6ff" style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" fo:font-weight="normal" style:font-size-asian="9pt" style:font-weight-asian="normal" style:font-size-complex="9pt" style:font-weight-complex="normal"/>
+        </style:style>
+        <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
+         <style:text-properties style:text-position="" fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+        </style:style>
+        <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Default">
+         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
+         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+         <style:table-cell-properties fo:background-color="#e6e6ff" fo:border="0.06pt solid #000000"/>
+         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default">
+         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
+         <style:text-properties fo:font-size="9pt" fo:font-weight="normal" style:font-size-asian="9pt" style:font-weight-asian="normal" style:font-size-complex="9pt" style:font-weight-complex="normal"/>
+        </style:style>
+        <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Default">
+         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
+         <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+        </style:style>
+        <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default">
+         <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+        </style:style>
+        <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties fo:background-color="#e6e6ff" style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000" style:vertical-align="middle"/>
+         <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties fo:background-color="#e6e6ff" style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
+         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
+         <style:text-properties fo:font-size="9pt" fo:font-weight="normal" style:font-size-asian="9pt" style:font-weight-asian="normal" style:font-size-complex="9pt" style:font-weight-complex="normal"/>
+        </style:style>
+        <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
+         <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+        </style:style>
+        <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000"/>
+         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
+         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+         <style:paragraph-properties fo:text-align="end" fo:margin-left="0in"/>
+         <style:text-properties fo:font-size="9pt" style:font-size-asian="9pt" style:font-size-complex="9pt"/>
+        </style:style>
+        <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Default">
+         <style:text-properties fo:font-size="9pt" fo:font-weight="bold" style:font-size-asian="9pt" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
+        </style:style>
+        <style:style style:name="ce30" style:family="table-cell" style:parent-style-name="Default">
          <style:text-properties fo:font-size="9pt" fo:font-weight="normal" style:font-size-asian="9pt" style:font-weight-asian="normal" style:font-size-complex="9pt" style:font-weight-complex="normal"/>
         </style:style>
         <style:page-layout style:name="pm1">
@@ -1822,7 +1877,7 @@
            <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
           </style:region-left>
           <style:region-right>
-           <text:p><text:date style:data-style-name="N2" text:date-value="2016-08-29">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="08:19:31.636678054">00:00:00</text:time></text:p>
+           <text:p><text:date style:data-style-name="N2" text:date-value="2016-12-04">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="12:38:22.940288624">00:00:00</text:time></text:p>
           </style:region-right>
          </style:header>
          <style:header-left style:display="false"/>
@@ -1835,85 +1890,85 @@
        <office:body>
         <office:spreadsheet>
          <table:table table:name="Sheet1" table:style-name="ta1">
-          <table:table-column table:style-name="co1" table:default-cell-style-name="ce5"/>
-          <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="ce11"/>
-          <table:table-column table:style-name="co3" table:number-columns-repeated="1021" table:default-cell-style-name="ce5"/>
+          <table:table-column table:style-name="co1" table:default-cell-style-name="ce22"/>
+          <table:table-column table:style-name="co2" table:number-columns-repeated="2" table:default-cell-style-name="ce28"/>
+          <table:table-column table:style-name="co3" table:number-columns-repeated="1021" table:default-cell-style-name="ce22"/>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce1"/>
-           <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+           <table:table-cell table:style-name="ce18"/>
+           <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
             <text:p>Amps</text:p>
            </table:table-cell>
-           <table:covered-table-cell table:style-name="ce10"/>
-           <table:table-cell table:style-name="ce12" table:number-columns-repeated="1021"/>
+           <table:covered-table-cell table:style-name="ce27"/>
+           <table:table-cell table:style-name="ce29" table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
             <text:p>Device</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
             <text:p>Typical</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
             <text:p>Maximum</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce12" table:number-columns-repeated="1021"/>
+           <table:table-cell table:style-name="ce29" table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
             <text:p>Battery contactor (est)</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce8" office:value-type="float" office:value="0.8" calcext:value-type="float">
+           <table:table-cell table:style-name="ce25" office:value-type="float" office:value="0.8" calcext:value-type="float">
             <text:p>0.80</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce8" office:value-type="float" office:value="2" calcext:value-type="float">
+           <table:table-cell table:style-name="ce25" office:value-type="float" office:value="2" calcext:value-type="float">
             <text:p>2.00</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce13" table:number-columns-repeated="1021"/>
+           <table:table-cell table:style-name="ce30" table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>GTN 650 main (radio 1)</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1.6" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="1.6" calcext:value-type="float">
             <text:p>1.60</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="2.8" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="2.8" calcext:value-type="float">
             <text:p>2.80</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>GTN 650 com (radio 1)</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="0.45" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="0.45" calcext:value-type="float">
             <text:p>0.45</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="4.02" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="4.02" calcext:value-type="float">
             <text:p>4.02</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>GTN 650 nav (radio 1)</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="0.6" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="0.6" calcext:value-type="float">
             <text:p>0.60</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1.16" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="1.16" calcext:value-type="float">
             <text:p>1.16</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>MGL Challenger 10.4”</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1.2" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="1.2" calcext:value-type="float">
             <text:p>1.20</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="2.25" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="2.25" calcext:value-type="float">
             <text:p>2.25</text:p>
            </table:table-cell>
            <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -1922,164 +1977,164 @@
            <table:table-cell table:number-columns-repeated="1020"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>MGL iBox</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce9" office:value-type="float" office:value="0.3" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce26" office:value-type="float" office:value="0.3" calcext:value-type="float">
             <text:p>0.30</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>MGL SP-6</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="0.05" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="0.05" calcext:value-type="float">
             <text:p>0.05</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="0.12" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="0.12" calcext:value-type="float">
             <text:p>0.12</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>MGL SP-7</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="0.05" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="0.05" calcext:value-type="float">
             <text:p>0.05</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="0.12" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="0.12" calcext:value-type="float">
             <text:p>0.12</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>MGL RDAC XF MAP</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce9" office:value-type="float" office:value="0.1" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce26" office:value-type="float" office:value="0.1" calcext:value-type="float">
             <text:p>0.10</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>TT22 transponder</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce9" office:value-type="float" office:value="3" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce26" office:value-type="float" office:value="3" calcext:value-type="float">
             <text:p>3.00</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>NavWorx ADS600-EXP</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="0.52" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="0.52" calcext:value-type="float">
             <text:p>0.52</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1.1" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="1.1" calcext:value-type="float">
             <text:p>1.10</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>PMA5000EX audio panel</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce9" office:value-type="float" office:value="2.5" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce26" office:value-type="float" office:value="2.5" calcext:value-type="float">
             <text:p>2.50</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>Interior lights (est)</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce26" office:value-type="float" office:value="1" calcext:value-type="float">
             <text:p>1.00</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>Autopilot servos</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" table:formula="of:=2*0.9" office:value-type="float" office:value="1.8" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" table:formula="of:=2*0.9" office:value-type="float" office:value="1.8" calcext:value-type="float">
             <text:p>1.80</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" table:formula="of:=2*1.71" office:value-type="float" office:value="3.42" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" table:formula="of:=2*1.71" office:value-type="float" office:value="3.42" calcext:value-type="float">
             <text:p>3.42</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>Aerosun landing lights</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce9" office:value-type="float" office:value="5.2" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce26" office:value-type="float" office:value="5.2" calcext:value-type="float">
             <text:p>5.20</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>Pulsar NSP lights</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce9" office:value-type="float" office:value="2.4" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce26" office:value-type="float" office:value="2.4" calcext:value-type="float">
             <text:p>2.40</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
             <text:p>Subtotal</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce10" table:formula="of:=SUM([.B3:.B18])" office:value-type="float" office:value="21.57" calcext:value-type="float">
+           <table:table-cell table:style-name="ce27" table:formula="of:=SUM([.B3:.B18])" office:value-type="float" office:value="21.57" calcext:value-type="float">
             <text:p>21.57</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce10" table:formula="of:=SUM([.C3:.C18])" office:value-type="float" office:value="31.49" calcext:value-type="float">
+           <table:table-cell table:style-name="ce27" table:formula="of:=SUM([.C3:.C18])" office:value-type="float" office:value="31.49" calcext:value-type="float">
             <text:p>31.49</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce12" table:number-columns-repeated="1021"/>
+           <table:table-cell table:style-name="ce29" table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" table:number-columns-repeated="3"/>
+           <table:table-cell table:style-name="ce21" table:number-columns-repeated="3"/>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>Pitot heat</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="2" table:style-name="ce9" office:value-type="float" office:value="10" calcext:value-type="float">
+           <table:table-cell table:number-columns-repeated="2" table:style-name="ce26" office:value-type="float" office:value="10" calcext:value-type="float">
             <text:p>10.00</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
             <text:p>USB convenience</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="1" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="1" calcext:value-type="float">
             <text:p>1.00</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce9" office:value-type="float" office:value="2" calcext:value-type="float">
+           <table:table-cell table:style-name="ce26" office:value-type="float" office:value="2" calcext:value-type="float">
             <text:p>2.00</text:p>
            </table:table-cell>
            <table:table-cell table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+           <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
             <text:p>Total</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce10" table:formula="of:=SUM([.B19:.B22])" office:value-type="float" office:value="32.57" calcext:value-type="float">
+           <table:table-cell table:style-name="ce27" table:formula="of:=SUM([.B19:.B22])" office:value-type="float" office:value="32.57" calcext:value-type="float">
             <text:p>32.57</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce10" table:formula="of:=SUM([.C19:.C22])" office:value-type="float" office:value="43.49" calcext:value-type="float">
+           <table:table-cell table:style-name="ce27" table:formula="of:=SUM([.C19:.C22])" office:value-type="float" office:value="43.49" calcext:value-type="float">
             <text:p>43.49</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce12" table:number-columns-repeated="1021"/>
+           <table:table-cell table:style-name="ce29" table:number-columns-repeated="1021"/>
           </table:table-row>
           <table:table-row table:style-name="ro1" table:number-rows-repeated="1048552">
            <table:table-cell table:number-columns-repeated="1024"/>
@@ -2375,64 +2430,64 @@
     <draw:g>
      <draw:g>
       <draw:g>
-       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="26.79cm" svg:y1="18.961cm" svg:x2="27.295cm" svg:y2="18.961cm">
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="26.765cm" svg:y1="17.994cm" svg:x2="27.27cm" svg:y2="17.994cm">
         <text:p/>
        </draw:line>
-       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.094cm" svg:y1="18.77cm" svg:x2="27.295cm" svg:y2="18.961cm">
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.069cm" svg:y1="17.803cm" svg:x2="27.27cm" svg:y2="17.994cm">
         <text:p/>
        </draw:line>
-       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.094cm" svg:y1="19.152cm" svg:x2="27.295cm" svg:y2="18.961cm">
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.069cm" svg:y1="18.185cm" svg:x2="27.27cm" svg:y2="17.994cm">
         <text:p/>
        </draw:line>
       </draw:g>
       <draw:g>
-       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.452cm" svg:y1="18.961cm" svg:x2="27.806cm" svg:y2="18.961cm">
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.427cm" svg:y1="17.994cm" svg:x2="27.781cm" svg:y2="17.994cm">
         <text:p/>
        </draw:line>
-       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.251cm" svg:y1="18.77cm" svg:x2="27.452cm" svg:y2="18.961cm">
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.226cm" svg:y1="17.803cm" svg:x2="27.427cm" svg:y2="17.994cm">
         <text:p/>
        </draw:line>
-       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.251cm" svg:y1="19.152cm" svg:x2="27.452cm" svg:y2="18.961cm">
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.226cm" svg:y1="18.185cm" svg:x2="27.427cm" svg:y2="17.994cm">
         <text:p/>
        </draw:line>
       </draw:g>
      </draw:g>
      <draw:g>
       <draw:g>
-       <draw:path draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:width="0.361cm" svg:height="0.125cm" svg:x="25.919cm" svg:y="18.835cm" svg:viewBox="0 0 362 126" svg:d="M0 126c182-284 362 0 362 0">
+       <draw:path draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:width="0.361cm" svg:height="0.125cm" svg:x="25.894cm" svg:y="17.868cm" svg:viewBox="0 0 362 126" svg:d="M0 126c182-284 362 0 362 0">
         <text:p/>
        </draw:path>
-       <draw:path draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:width="0.361cm" svg:height="0.125cm" svg:x="26.283cm" svg:y="18.963cm" svg:viewBox="0 0 362 126" svg:d="M0 0c182 284 362 0 362 0">
+       <draw:path draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:width="0.361cm" svg:height="0.125cm" svg:x="26.258cm" svg:y="17.996cm" svg:viewBox="0 0 362 126" svg:d="M0 0c182 284 362 0 362 0">
         <text:p/>
        </draw:path>
       </draw:g>
-      <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="0.144cm" svg:height="0.15cm" svg:x="25.773cm" svg:y="18.887cm">
+      <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="0.144cm" svg:height="0.15cm" svg:x="25.748cm" svg:y="17.92cm">
        <text:p/>
        <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
       </draw:custom-shape>
-      <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="0.144cm" svg:height="0.15cm" svg:x="26.645cm" svg:y="18.887cm">
+      <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="0.144cm" svg:height="0.15cm" svg:x="26.62cm" svg:y="17.92cm">
        <text:p/>
        <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
       </draw:custom-shape>
      </draw:g>
     </draw:g>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.805cm" svg:y1="18.96cm" svg:x2="32.284cm" svg:y2="18.96cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.78cm" svg:y1="17.993cm" svg:x2="32.259cm" svg:y2="17.993cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr17" draw:layer="layout" svg:width="4.075cm" svg:height="0.607cm" svg:x="32.536cm" svg:y="18.687cm">
+    <draw:frame draw:style-name="gr17" draw:layer="layout" svg:width="4.075cm" svg:height="0.607cm" svg:x="32.511cm" svg:y="17.72cm">
      <draw:text-box>
-      <text:p>Dome Light LIGHTS-3</text:p>
+      <text:p>iBOX <text:s text:c="3"/>INST-1</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr22" draw:layer="layout" svg:width="1.256cm" svg:height="0.963cm" svg:x="25.631cm" svg:y="18.062cm">
+    <draw:frame draw:style-name="gr22" draw:layer="layout" svg:width="1.256cm" svg:height="0.963cm" svg:x="25.606cm" svg:y="17.095cm">
      <draw:text-box>
-      <text:p>DOME</text:p>
+      <text:p>iBOX</text:p>
       <text:p>3A</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="28.377cm" svg:y="18.67cm">
+    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.576cm" svg:height="0.399cm" svg:x="28.237cm" svg:y="17.703cm">
      <draw:text-box>
-      <text:p>20 AWG Red</text:p>
+      <text:p>22 AWG White</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr29" draw:layer="layout" svg:width="5.925cm" svg:height="0.607cm" svg:x="16.466cm" svg:y="8.446cm">
@@ -2442,7 +2497,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr30" draw:layer="layout" svg:width="1.569cm" svg:height="0.607cm" svg:x="37.986cm" svg:y="24.815cm">
      <draw:text-box>
-      <text:p>8/29/16</text:p>
+      <text:p>12/4/16</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr31" draw:layer="layout" svg:width="2.013cm" svg:height="0.963cm" svg:x="9.538cm" svg:y="10.421cm">
@@ -2473,6 +2528,69 @@
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="12.307cm" svg:y="13.526cm">
+     <draw:text-box>
+      <text:p>20 AWG Red</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:g>
+      <draw:g>
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="26.765cm" svg:y1="20.534cm" svg:x2="27.27cm" svg:y2="20.534cm">
+        <text:p/>
+       </draw:line>
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.069cm" svg:y1="20.343cm" svg:x2="27.27cm" svg:y2="20.534cm">
+        <text:p/>
+       </draw:line>
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.069cm" svg:y1="20.725cm" svg:x2="27.27cm" svg:y2="20.534cm">
+        <text:p/>
+       </draw:line>
+      </draw:g>
+      <draw:g>
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.427cm" svg:y1="20.534cm" svg:x2="27.781cm" svg:y2="20.534cm">
+        <text:p/>
+       </draw:line>
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.226cm" svg:y1="20.343cm" svg:x2="27.427cm" svg:y2="20.534cm">
+        <text:p/>
+       </draw:line>
+       <draw:line draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.226cm" svg:y1="20.725cm" svg:x2="27.427cm" svg:y2="20.534cm">
+        <text:p/>
+       </draw:line>
+      </draw:g>
+     </draw:g>
+     <draw:g>
+      <draw:g>
+       <draw:path draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:width="0.361cm" svg:height="0.125cm" svg:x="25.894cm" svg:y="20.408cm" svg:viewBox="0 0 362 126" svg:d="M0 126c182-284 362 0 362 0">
+        <text:p/>
+       </draw:path>
+       <draw:path draw:style-name="gr9" draw:text-style-name="P1" draw:layer="layout" svg:width="0.361cm" svg:height="0.125cm" svg:x="26.258cm" svg:y="20.536cm" svg:viewBox="0 0 362 126" svg:d="M0 0c182 284 362 0 362 0">
+        <text:p/>
+       </draw:path>
+      </draw:g>
+      <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="0.144cm" svg:height="0.15cm" svg:x="25.748cm" svg:y="20.46cm">
+       <text:p/>
+       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+      </draw:custom-shape>
+      <draw:custom-shape draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="0.144cm" svg:height="0.15cm" svg:x="26.62cm" svg:y="20.46cm">
+       <text:p/>
+       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+      </draw:custom-shape>
+     </draw:g>
+    </draw:g>
+    <draw:line draw:style-name="gr15" draw:text-style-name="P1" draw:layer="layout" svg:x1="27.78cm" svg:y1="20.533cm" svg:x2="32.259cm" svg:y2="20.533cm">
+     <text:p/>
+    </draw:line>
+    <draw:frame draw:style-name="gr17" draw:layer="layout" svg:width="4.075cm" svg:height="0.607cm" svg:x="32.511cm" svg:y="20.26cm">
+     <draw:text-box>
+      <text:p>Dome Light LIGHTS-3</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr22" draw:layer="layout" svg:width="1.256cm" svg:height="0.963cm" svg:x="25.606cm" svg:y="19.635cm">
+     <draw:text-box>
+      <text:p>DOME</text:p>
+      <text:p>3A</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr23" draw:layer="layout" svg:width="2.344cm" svg:height="0.399cm" svg:x="28.352cm" svg:y="20.243cm">
      <draw:text-box>
       <text:p>20 AWG Red</text:p>
      </draw:text-box>
