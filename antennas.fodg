@@ -6,8 +6,8 @@
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-430</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">-4035</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">51627</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">28972</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">51626</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">28971</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-1649</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-652</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">44443</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">31176</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-430</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-4035</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">51628</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">28973</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -462,20 +462,20 @@
    <draw:page draw:name="page1" draw:style-name="dp2" draw:master-page-name="Default">
     <draw:frame draw:style-name="gr6" draw:layer="layout" svg:width="1.747cm" svg:height="0.607cm" svg:x="37.893cm" svg:y="24.804cm">
      <draw:text-box>
-      <text:p>1/26/17</text:p>
+      <text:p>1/30/17</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr7" draw:layer="layout" svg:width="20.29cm" svg:height="7.794cm" svg:x="11.445cm" svg:y="5.905cm">
+    <draw:frame draw:style-name="gr7" draw:layer="layout" svg:width="26.088cm" svg:height="6.304cm" svg:x="8.546cm" svg:y="8.433cm">
      <text:p/>
      <draw:object>
       <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
-       <office:meta><dc:date>2017-01-26T19:20:00.447048304</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT40M15S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2017-01-26T18:39:42.274445129</meta:creation-date><meta:document-statistic meta:table-count="1" meta:cell-count="36" meta:object-count="0"/></office:meta>
+       <office:meta><dc:date>2017-01-30T08:08:16.812534590</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT1H20M11S</meta:editing-duration><meta:editing-cycles>23</meta:editing-cycles><meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2017-01-30T08:02:11.515950952</meta:creation-date><meta:document-statistic meta:table-count="1" meta:cell-count="52" meta:object-count="0"/></office:meta>
        <office:settings>
         <config:config-item-set config:name="ooo:view-settings">
          <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
          <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-         <config:config-item config:name="VisibleAreaWidth" config:type="int">20290</config:config-item>
-         <config:config-item config:name="VisibleAreaHeight" config:type="int">7794</config:config-item>
+         <config:config-item config:name="VisibleAreaWidth" config:type="int">25052</config:config-item>
+         <config:config-item config:name="VisibleAreaHeight" config:type="int">6265</config:config-item>
          <config:config-item-map-indexed config:name="Views">
           <config:config-item-map-entry>
            <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
@@ -489,8 +489,8 @@
          <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
          <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
          <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-         <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
-         <config:config-item config:name="PrinterName" config:type="string"/>
+         <config:config-item config:name="PrinterSetup" config:type="base64Binary">pgH+/2xhc2VyamV0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpsYXNlcmpldAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAzAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9bGFzZXJqZXQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCkR1cGxleDpOb25lAElucHV0U2xvdDpBdXRvAFBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+         <config:config-item config:name="PrinterName" config:type="string">laserjet</config:config-item>
          <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
          <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
          <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
@@ -563,39 +563,57 @@
        </office:styles>
        <office:automatic-styles>
         <style:style style:name="co1" style:family="table-column">
-         <style:table-column-properties fo:break-before="auto" style:column-width="2.8835in"/>
+         <style:table-column-properties fo:break-before="auto" style:column-width="1.6043in"/>
         </style:style>
         <style:style style:name="co2" style:family="table-column">
-         <style:table-column-properties fo:break-before="auto" style:column-width="2.5457in"/>
+         <style:table-column-properties fo:break-before="auto" style:column-width="1.3681in"/>
         </style:style>
         <style:style style:name="co3" style:family="table-column">
-         <style:table-column-properties fo:break-before="auto" style:column-width="1.2984in"/>
+         <style:table-column-properties fo:break-before="auto" style:column-width="1.1071in"/>
         </style:style>
         <style:style style:name="co4" style:family="table-column">
-         <style:table-column-properties fo:break-before="auto" style:column-width="1.2602in"/>
+         <style:table-column-properties fo:break-before="auto" style:column-width="1.1693in"/>
         </style:style>
         <style:style style:name="co5" style:family="table-column">
+         <style:table-column-properties fo:break-before="auto" style:column-width="0.9453in"/>
+        </style:style>
+        <style:style style:name="co6" style:family="table-column">
+         <style:table-column-properties fo:break-before="auto" style:column-width="1.8283in"/>
+        </style:style>
+        <style:style style:name="co7" style:family="table-column">
+         <style:table-column-properties fo:break-before="auto" style:column-width="0.8835in"/>
+        </style:style>
+        <style:style style:name="co8" style:family="table-column">
+         <style:table-column-properties fo:break-before="auto" style:column-width="0.9575in"/>
+        </style:style>
+        <style:style style:name="co9" style:family="table-column">
          <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
         </style:style>
         <style:style style:name="ro1" style:family="table-row">
-         <style:table-row-properties style:row-height="0.3409in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+         <style:table-row-properties style:row-height="0.3083in" fo:break-before="auto" style:use-optimal-row-height="false"/>
         </style:style>
         <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
          <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
         </style:style>
         <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
-         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
-         <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+         <style:table-cell-properties fo:background-color="#dddddd" style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000" style:vertical-align="middle"/>
+         <style:paragraph-properties fo:text-align="center" fo:margin-left="0in"/>
+         <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
         </style:style>
         <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
-         <style:table-cell-properties fo:border="0.06pt solid #000000"/>
-         <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+         <style:table-cell-properties fo:border="0.06pt solid #000000" style:vertical-align="middle"/>
+         <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
         </style:style>
         <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
-         <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+         <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
         </style:style>
         <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
-         <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+         <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:border="0.06pt solid #000000" style:vertical-align="middle"/>
+         <style:paragraph-properties fo:text-align="center"/>
+         <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+        </style:style>
+        <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
+         <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
         </style:style>
         <style:page-layout style:name="pm1">
          <style:page-layout-properties style:writing-mode="lr-tb"/>
@@ -637,7 +655,7 @@
            <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
           </style:region-left>
           <style:region-right>
-           <text:p><text:date style:data-style-name="N2" text:date-value="2017-01-26">00/00/0000</text:date>, <text:time>00:00:00</text:time></text:p>
+           <text:p><text:date style:data-style-name="N2" text:date-value="2017-01-30">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="08:02:08.518014503">00:00:00</text:time></text:p>
           </style:region-right>
          </style:header>
          <style:header-left style:display="false"/>
@@ -654,25 +672,62 @@
           <table:table-column table:style-name="co2" table:default-cell-style-name="ce3"/>
           <table:table-column table:style-name="co3" table:default-cell-style-name="ce3"/>
           <table:table-column table:style-name="co4" table:default-cell-style-name="ce3"/>
-          <table:table-column table:style-name="co5" table:number-columns-repeated="1020" table:default-cell-style-name="ce3"/>
+          <table:table-column table:style-name="co5" table:default-cell-style-name="ce3"/>
+          <table:table-column table:style-name="co6" table:default-cell-style-name="ce3"/>
+          <table:table-column table:style-name="co7" table:default-cell-style-name="ce3"/>
+          <table:table-column table:style-name="co8" table:default-cell-style-name="ce3"/>
+          <table:table-column table:style-name="co9" table:number-columns-repeated="1016" table:default-cell-style-name="ce3"/>
           <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-            <text:p>Device</text:p>
+           <table:table-cell table:style-name="ce1"/>
+           <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+            <text:p>Radio</text:p>
            </table:table-cell>
+           <table:covered-table-cell table:style-name="ce1"/>
+           <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+            <text:p>Antenna</text:p>
+           </table:table-cell>
+           <table:covered-table-cell table:style-name="ce1"/>
            <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
             <text:p>Location</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
-            <text:p>Wire Type</text:p>
+            <text:p>Coax</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
             <text:p>Wire Label</text:p>
            </table:table-cell>
-           <table:table-cell table:style-name="ce4" table:number-columns-repeated="1020"/>
+           <table:table-cell table:style-name="ce5" table:number-columns-repeated="1016"/>
+          </table:table-row>
+          <table:table-row table:style-name="ro1">
+           <table:table-cell table:style-name="ce1"/>
+           <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+            <text:p>Device</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+            <text:p>Connector</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+            <text:p>Device</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+            <text:p>Connector</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce1" table:number-columns-repeated="3"/>
+           <table:table-cell table:style-name="ce5" table:number-columns-repeated="1016"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>VOR/ILS + Glideslope antenna</text:p>
+            <text:p>VOR/ILS/Glideslope</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>Garmin GTN 650</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2"/>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>RAMI AV-532</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>BNC</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
             <text:p>Bottom, aft of rear seat</text:p>
@@ -683,29 +738,51 @@
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
             <text:p>ANT-1</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="1020"/>
+           <table:table-cell table:number-columns-repeated="1016"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>Marker beacon antenna</text:p>
+            <text:p>Transponder</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>Trig TT22</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>supplied TNC</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>DPA</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>BNC</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
             <text:p>Under front seat</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>RG 58C/U</text:p>
+            <text:p>RG 400</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
             <text:p>ANT-2</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="1020"/>
+           <table:table-cell table:number-columns-repeated="1016"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>Transponder antenna</text:p>
+            <text:p>Comm 1</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" table:formula="of:=[.B3]" office:value-type="string" office:string-value="Garmin GTN 650" calcext:value-type="string">
+            <text:p>Garmin GTN 650</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2"/>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>DPA</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>Under front seat</text:p>
+            <text:p>BNC</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>Roof, in front of spar</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
             <text:p>RG 58C/U</text:p>
@@ -713,14 +790,21 @@
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
             <text:p>ANT-3</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="1020"/>
+           <table:table-cell table:number-columns-repeated="1016"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>ADS-B UAT antenna</text:p>
+            <text:p>Comm 2</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" table:number-columns-repeated="2"/>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>DPA</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>Under front seat</text:p>
+            <text:p>BNC</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>Roof, in front of spar</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
             <text:p>RG 58C/U</text:p>
@@ -728,69 +812,58 @@
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
             <text:p>ANT-4</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="1020"/>
+           <table:table-cell table:number-columns-repeated="1016"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>Comm 1 antenna</text:p>
+            <text:p>EFIS GPS</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>Roof, in front of spar</text:p>
+            <text:p>MGL iEFIS</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
+            <text:p>supplied with iBox</text:p>
+           </table:table-cell>
+           <table:covered-table-cell table:number-columns-repeated="2" table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>supplied</text:p>
+           </table:covered-table-cell>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>Roof, in back of spar</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>RG 58C/U</text:p>
+            <text:p>supplied</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
             <text:p>ANT-5</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="1020"/>
+           <table:table-cell table:number-columns-repeated="1016"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>Comm 2 antenna</text:p>
+            <text:p>WAAS GPS</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" table:formula="of:=[.B3]" office:value-type="string" office:string-value="Garmin GTN 650" calcext:value-type="string">
+            <text:p>Garmin GTN 650</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2"/>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>Garmin GA 35</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>Roof, in front of spar</text:p>
+            <text:p>TNC</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>RG 58C/U</text:p>
+            <text:p>Roof, in back of spar</text:p>
+           </table:table-cell>
+           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+            <text:p>RG 400</text:p>
            </table:table-cell>
            <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
             <text:p>ANT-6</text:p>
            </table:table-cell>
-           <table:table-cell table:number-columns-repeated="1020"/>
+           <table:table-cell table:number-columns-repeated="1016"/>
           </table:table-row>
-          <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>GPS antenna, EFIS</text:p>
-           </table:table-cell>
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>Roof, in front of spar</text:p>
-           </table:table-cell>
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>RG 400</text:p>
-           </table:table-cell>
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>ANT-7</text:p>
-           </table:table-cell>
-           <table:table-cell table:number-columns-repeated="1020"/>
-          </table:table-row>
-          <table:table-row table:style-name="ro1">
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>GPS antenna, ADS-B UAT</text:p>
-           </table:table-cell>
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>Roof, in front of spar</text:p>
-           </table:table-cell>
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>RG 400</text:p>
-           </table:table-cell>
-           <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-            <text:p>ANT-8</text:p>
-           </table:table-cell>
-           <table:table-cell table:number-columns-repeated="1020"/>
-          </table:table-row>
-          <table:table-row table:style-name="ro1" table:number-rows-repeated="1048566">
+          <table:table-row table:style-name="ro1" table:number-rows-repeated="1048567">
            <table:table-cell table:number-columns-repeated="1024"/>
           </table:table-row>
           <table:table-row table:style-name="ro1">
@@ -802,121 +875,140 @@
        </office:body>
       </office:document>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAUNPAABz
-       HgAAdQAAAJYAAQACAAAACQCLAAEAAgAAAP//lQABAAQAAAAAAAAAiwABAAIAAAAgAIIAAQAh
-       AAAAAgAbAAAAAgACAAAAAAAAAHIeAAABAAAAAABCTwAAAgAAjAABAAAAAACEAAEABQAAAAAA
-       AAAAhAABAAUAAAAAAAAAAJYAAQACAAAACQCEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0A
-       AwAzAAAAAgAAAAAAAAAAACtPAAAAAAAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA
-       AAAAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAAGkDAAArTwAAaQMA
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAd1hAAB6
+       GAAAmQAAAJYAAQACAAAACQCLAAEAAgAAAP//lQABAAQAAAAAAAAAiwABAAIAAAAgAIIAAQAh
+       AAAAAgAbAAAAAgACAAAAAAAAAHkYAAABAAAAAADcYQAAAgAAjAABAAAAAACEAAEABQAAAAAA
+       AAAAhQABAAUAAADd3d0AAWcAAQAQAAAAAQAAAAEAAAC3YQAAFQYAAIQAAQAFAAAAAAAAAACW
+       AAEAAgAAAAkAhAABAAUAAAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAAAAAAACr
+       YQAAAAAAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGF
+       AAEABQAAAAAAAAAAbQADADMAAAACAAAAAAD/AgAAq2EAAP8CAAAEABoAAAABAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAA
+       AAAAGQYAAKthAAAZBgAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUA
+       AAAAAAAAAYUAAQAFAAAAAAAAAABtAAMAMwAAAAIAAAAAABgJAACrYQAAGAkAAAQAGgAAAAEA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQAD
+       ADMAAAACAAAAAAAyDAAAq2EAADIMAAAEABoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA
+       AACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgAAAAAAMQ8AAKthAAAxDwAA
+       BAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAAAYUAAQAFAAAA
+       AAAAAABtAAMAMwAAAAIAAAAAADESAACrYQAAMRIAAAQAGgAAAAEAAAAAAAAAAAAAAAAAAAAA
+       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
-       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
+       AAAAAAAAbQADADMAAAACAGkoAABKGAAAaSgAAEoVAAAEABoAAAABAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAABAAAAACEAAEABQAAAAAAAAABhQABAAUAAAAAAAAAAG0AAwAzAAAAAgD9MwAAMRIA
+       AP0zAAD/AgAABAAaAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAhAABAAUAAAAAAAAA
+       AYUAAQAFAAAAAAAAAABtAAMAMwAAAAIA/TMAAEoYAAD9MwAAShUAAAQAGgAAAAEAAAAAAAAA
        AAAAAAAAAAAAAAAAAAAEAAAAAIQAAQAFAAAAAAAAAAGFAAEABQAAAAAAAAAAbQADADMAAAAC
-       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
+       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
-       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
-       EAgAADMJAAAJAFcAaQByAGUAIABUAHkAcABlAHEAAgBaAAAAxkIAALgCAAAKAFdpcmUgTGFi
-       ZWwAAAoACgAAAMIBAABGAgAA/wIAACIEAACnBAAA5AUAAAcHAABFCAAAaAkAAOwJAAAKAFcA
-       aQByAGUAIABMAGEAYgBlAGwAigABAEEAAAADADsAAAAPAExpYmVyYXRpb24gU2FucwAAAAAA
-       AO4BAABMAAUAAgAFAAAAAAAAAAkEAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAA
-       AP////8AkQABAAUAAAD/////AZcAAQAFAAAA/////wFxAAIA2AAAACQAAAAWBgAAHABWT1Iv
-       SUxTICsgR2xpZGVzbG9wZSBhbnRlbm5hAAAcABwAAABYAQAA5QIAAFcEAADcBAAAYAUAAIMG
-       AADbBwAAXwgAAIIJAAAGCgAAkwsAAP0LAABnDAAAig0AAK0OAAC2DwAAIBAAAEMRAABmEgAA
-       iRMAAA0UAAAwFQAAUxYAANcWAAD6FwAAHRkAAEAaAABjGwAAHABWAE8AUgAvAEkATABTACAA
-       KwAgAEcAbABpAGQAZQBzAGwAbwBwAGUAIABhAG4AdABlAG4AbgBhAHEAAgC8AAAAsxwAABYG
-       AAAYAEJvdHRvbSwgYWZ0IG9mIHJlYXIgc2VhdAAAGAAYAAAAWAEAAHsCAAD/AgAAhAMAAKcE
-       AABOBgAA0gYAAFcHAAB6CAAA/ggAAIIJAAAGCgAAKgsAAK4LAAAyDAAA0QwAAPQNAAAXDwAA
-       tg8AADoQAABDEQAAZhIAAIkTAAANFAAAGABCAG8AdAB0AG8AbQAsACAAYQBmAHQAIABvAGYA
-       IAByAGUAYQByACAAcwBlAGEAdABxAAIATAAAAOo1AAAWBgAACABSRyA1OEMvVQAACAAIAAAA
-       cgEAAP8CAACEAwAApwQAAMoFAAA8BwAAwAcAADMJAAAIAFIARwAgADUAOABDAC8AVQBxAAIA
-       NwAAAMZCAAAWBgAABQBBTlQtMQAABQAFAAAAWAEAAMoCAADTAwAAcgQAAJUFAAAFAEEATgBU
-       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
-       ACwAIABpAG4AIABmAHIAbwBuAHQAIABvAGYAIABzAHAAYQByAHEAAgBMAAAA6jUAAI4TAAAI
-       AFJHIDU4Qy9VAAAIAAgAAAByAQAA/wIAAIQDAACnBAAAygUAADwHAADABwAAMwkAAAgAUgBH
-       ACAANQA4AEMALwBVAHEAAgA3AAAAxkIAAI4TAAAFAEFOVC01AAAFAAUAAABYAQAAygIAANMD
-       AAByBAAAlQUAAAUAQQBOAFQALQA1AHEAAgB2AAAAJAAAAOwWAAAOAENvbW0gMiBhbnRlbm5h
-       AAAOAA4AAAByAQAAlQIAAD0EAADkBQAAaAYAAIsHAAAQCAAAMwkAAFYKAADaCgAA/QsAACAN
-       AABDDgAAZg8AAA4AQwBvAG0AbQAgADIAIABhAG4AdABlAG4AbgBhAHEAAgCuAAAAsxwAAOwW
-       AAAWAFJvb2YsIGluIGZyb250IG9mIHNwYXIAABYAFgAAAHIBAACVAgAAuQMAAD0EAADBBAAA
-       RQUAAK8FAADSBgAAVwcAANsHAAB6CAAAnQkAAMAKAABECwAAyAsAAOsMAABwDQAA9A0AAPwO
-       AAAgEAAAQxEAAOERAAAWAFIAbwBvAGYALAAgAGkAbgAgAGYAcgBvAG4AdAAgAG8AZgAgAHMA
-       cABhAHIAcQACAEwAAADqNQAA7BYAAAgAUkcgNThDL1UAAAgACAAAAHIBAAD/AgAAhAMAAKcE
-       AADKBQAAPAcAAMAHAAAzCQAACABSAEcAIAA1ADgAQwAvAFUAcQACADcAAADGQgAA7BYAAAUA
-       QU5ULTYAAAUABQAAAFgBAADKAgAA0wMAAHIEAACVBQAABQBBAE4AVAAtADYAcQACAIsAAAAk
-       AAAAShoAABEAR1BTIGFudGVubmEsIEVGSVMAABEAEQAAAI0BAADlAgAAPQQAAMEEAADkBQAA
-       BwcAAIsHAACvCAAA0gkAAPUKAAAYDAAAnAwAACANAAB4DgAAtg8AADoQAACSEQAAEQBHAFAA
-       UwAgAGEAbgB0AGUAbgBuAGEALAAgAEUARgBJAFMAcQACAK4AAACzHAAAShoAABYAUm9vZiwg
-       aW4gZnJvbnQgb2Ygc3BhcgAAFgAWAAAAcgEAAJUCAAC5AwAAPQQAAMEEAABFBQAArwUAANIG
-       AABXBwAA2wcAAHoIAACdCQAAwAoAAEQLAADICwAA6wwAAHANAAD0DQAA/A4AACAQAABDEQAA
-       4REAABYAUgBvAG8AZgAsACAAaQBuACAAZgByAG8AbgB0ACAAbwBmACAAcwBwAGEAcgBxAAIA
-       PgAAAOo1AABKGgAABgBSRyA0MDAAAAYABgAAAHIBAAD/AgAAhAMAAKcEAADKBQAA7QYAAAYA
-       UgBHACAANAAwADAAcQACADcAAADGQgAAShoAAAUAQU5ULTcAAAUABQAAAFgBAADKAgAA0wMA
-       AHIEAACVBQAABQBBAE4AVAAtADcAcQACAK4AAAAkAAAAqB0AABYAR1BTIGFudGVubmEsIEFE
-       Uy1CIFVBVAAAFgAWAAAAjQEAAOUCAAA9BAAAwQQAAOQFAAAHBwAAiwcAAK8IAADSCQAA9QoA
-       ABgMAACcDAAA6wwAAEMOAAC2DwAADhEAAKwRAAAEEwAAiRMAAPsUAAAeFgAAXBcAABYARwBQ
-       AFMAIABhAG4AdABlAG4AbgBhACwAIABBAEQAUwAtAEIAIABVAEEAVABxAAIArgAAALMcAACo
-       HQAAFgBSb29mLCBpbiBmcm9udCBvZiBzcGFyAAAWABYAAAByAQAAlQIAALkDAAA9BAAAwQQA
-       AEUFAACvBQAA0gYAAFcHAADbBwAAeggAAJ0JAADACgAARAsAAMgLAADrDAAAcA0AAPQNAAD8
-       DgAAIBAAAEMRAADhEQAAFgBSAG8AbwBmACwAIABpAG4AIABmAHIAbwBuAHQAIABvAGYAIABz
-       AHAAYQByAHEAAgA+AAAA6jUAAKgdAAAGAFJHIDQwMAAABgAGAAAAcgEAAP8CAACEAwAApwQA
-       AMoFAADtBgAABgBSAEcAIAA0ADAAMABxAAIANwAAAMZCAACoHQAABQBBTlQtOAAABQAFAAAA
-       WAEAAMoCAADTAwAAcgQAAJUFAAAFAEEATgBUAC0AOACLAAEAAgAAACAAggABACEAAAACABsA
-       AAACAAIAAAAAAAAAch4AAAEAAAAAAEJPAAACAACMAAEAAAAAAIsAAQACAAAAIACCAAEAIQAA
-       AAIAGwAAAAIAAgAAAAAAAAByHgAAAQAAAAAAQk8AAAIAAIwAAQAAAAAAiwABAAIAAAAgAIIA
-       AQAhAAAAAgAbAAAAAgACAAAAAAAAAHIeAAABAAAAAABCTwAAAgAAjAABAAAAAACVAAEABAAA
-       AAAAAACMAAEAAAAAAA==
+       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
+       BwAAwAcAACoIAAAYCQAAggkAAOwJAABwCgAAXgsAAE0MAADRDAAAOw0AAA4OAAD8DgAA6w8A
+       AFQQAAAYAEIAbwB0AHQAbwBtACwAIABhAGYAdAAgAG8AZgAgAHIAZQBhAHIAIABzAGUAYQB0
+       AHEAAgBMAAAAnU8AACsIAAAIAFJHIDU4Qy9VAAAIAAgAAAA+AQAAewIAAOUCAADTAwAAwQQA
+       AP8FAABoBgAApgcAAAgAUgBHACAANQA4AEMALwBVAHEAAgA3AAAAXVgAACsIAAAFAEFOVC0x
+       AAAFAAUAAAAjAQAAYQIAAE8DAADTAwAAwQQAAAUAQQBOAFQALQAxAHEAAgBhAAAAJAAAADUL
+       AAALAFRyYW5zcG9uZGVyAAALAAsAAADuAAAAcgEAAGECAABPAwAAIgQAABAFAAD/BQAA7QYA
+       ANsHAADJCAAATQkAAAsAVAByAGEAbgBzAHAAbwBuAGQAZQByAHEAAgBTAAAACBAAADULAAAJ
+       AFRyaWcgVFQyMgAACQAJAAAA7gAAAHIBAADcAQAAygIAABoDAAAiBAAAKwUAABkGAAAHBwAA
+       CQBUAHIAaQBnACAAVABUADIAMgBxAAIAaAAAAJYdAAA1CwAADABzdXBwbGllZCBUTkMAAAwA
+       DAAAANQAAADCAQAAsAIAAJ4DAAAIBAAAcgQAAGAFAABOBgAAnQYAAKYHAADjCAAAIQoAAAwA
+       cwB1AHAAcABsAGkAZQBkACAAVABOAEMAcQACACkAAACNKAAANQsAAAMARFBBAAADAAMAAAA+
+       AQAALAIAAE8DAAADAEQAUABBAHEAAgApAAAAIzQAADULAAADAEJOQwAAAwADAAAAIwEAAGEC
+       AACeAwAAAwBCAE4AQwBxAAIAhAAAAIA9AAA1CwAAEABVbmRlciBmcm9udCBzZWF0AAAQABAA
+       AAA+AQAALAIAABoDAAAIBAAAjAQAAPYEAABgBQAA5AUAANIGAADABwAAKggAAJQIAABoCQAA
+       VgoAAEQLAACuCwAAEABVAG4AZABlAHIAIABmAHIAbwBuAHQAIABzAGUAYQB0AHEAAgA+AAAA
+       nU8AADULAAAGAFJHIDQwMAAABgAGAAAAPgEAAHsCAADlAgAA0wMAAMEEAACvBQAABgBSAEcA
+       IAA0ADAAMABxAAIANwAAAF1YAAA1CwAABQBBTlQtMgAABQAFAAAAIwEAAGECAABPAwAA0wMA
+       AMEEAAAFAEEATgBUAC0AMgBxAAIAPgAAACQAAAA/DgAABgBDb21tIDEAAAYABgAAAD4BAAAs
+       AgAAhAMAANwEAABFBQAANAYAAAYAQwBvAG0AbQAgADEAcQACAHYAAAAIEAAAPw4AAA4AR2Fy
+       bWluIEdUTiA2NTAAAA4ADgAAAD4BAAAsAgAAsAIAAAgEAAByBAAAYAUAAMoFAAAHBwAAEAgA
+       AE0JAAC3CQAApQoAAJMLAACBDAAADgBHAGEAcgBtAGkAbgAgAEcAVABOACAANgA1ADAAcQAC
+       ACkAAACNKAAAPw4AAAMARFBBAAADAAMAAAA+AQAALAIAAE8DAAADAEQAUABBAHEAAgApAAAA
+       IzQAAD8OAAADAEJOQwAAAwADAAAAIwEAAGECAACeAwAAAwBCAE4AQwBxAAIArgAAAIA9AAA/
+       DgAAFgBSb29mLCBpbiBmcm9udCBvZiBzcGFyAAAWABYAAAA+AQAALAIAABoDAACEAwAA7QMA
+       AFcEAADBBAAArwUAABkGAACDBgAABwcAAPUHAADjCAAATQkAALcJAAClCgAADwsAAHkLAABN
+       DAAAOw0AACkOAACtDgAAFgBSAG8AbwBmACwAIABpAG4AIABmAHIAbwBuAHQAIABvAGYAIABz
+       AHAAYQByAHEAAgBMAAAAnU8AAD8OAAAIAFJHIDU4Qy9VAAAIAAgAAAA+AQAAewIAAOUCAADT
+       AwAAwQQAAP8FAABoBgAApgcAAAgAUgBHACAANQA4AEMALwBVAHEAAgA3AAAAXVgAAD8OAAAF
+       AEFOVC0zAAAFAAUAAAAjAQAAYQIAAE8DAADTAwAAwQQAAAUAQQBOAFQALQAzAHEAAgA+AAAA
+       JAAAAEkRAAAGAENvbW0gMgAABgAGAAAAPgEAACwCAACEAwAA3AQAAEUFAAA0BgAABgBDAG8A
+       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
       </office:binary-data>
      </draw:image>
     </draw:frame>
