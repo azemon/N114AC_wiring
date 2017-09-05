@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="41in"
+   height="16in"
+   viewBox="0 0 3690.0001 1440"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="N114AC instrument panel.svg">
+  <title
+     id="title4363">N114AC lower instrument panel</title>
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath891">
+      <rect
+         style="fill:#9a53ff;fill-opacity:1;stroke:none;stroke-width:0.62031442;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect893"
+         width="305.42117"
+         height="150.58961"
+         x="2115.0059"
+         y="238.01535" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.26"
+     inkscape:cx="1922.4824"
+     inkscape:cy="768"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     objecttolerance="20"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     guidetolerance="20"
+     gridtolerance="20"
+     inkscape:snap-path-clip="true"
+     inkscape:snap-path-mask="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="false">
+    <sodipodi:guide
+       position="113.46377,540.00349"
+       orientation="0,1"
+       id="guide870"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1844.6366,629.77"
+       orientation="1,0"
+       id="guide851"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>N114AC lower instrument panel</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Art Zemon</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="outline"
+     transform="translate(0,720)"
+     sodipodi:insensitive="true">
+    <path
+       style="opacity:1;fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:6.17796659;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 270,-720 0,-179.99999 V 720.00002 H 3690 V -179.99999 L 3420,-720 Z"
+       id="rect999"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="cutouts"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,387.63782)"
+     style="display:inline">
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g839"
+       id="use856"
+       transform="translate(2072.1711)"
+       width="100%"
+       height="100%" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.90509117;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3355"
+       cx="129.375"
+       cy="787.9801"
+       rx="39.375"
+       ry="39.38208" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4317"
+       width="95.100609"
+       height="130.20061"
+       x="131.52322"
+       y="292.3916" />
+    <g
+       id="g839"
+       transform="translate(-180.03509)">
+      <rect
+         y="-289.61252"
+         x="540.82489"
+         height="712.20471"
+         width="894.68506"
+         id="rect878"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.61615515;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:27.69693222, 4.61615537000000042;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.08773827;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path912"
+         cx="528.42407"
+         cy="-245.32089"
+         r="5.6700001" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path912"
+         id="use914"
+         transform="translate(-1.2829755e-6,623.62206)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path912"
+         id="use916"
+         transform="translate(919.48815,-1.3328977e-6)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path912"
+         id="use918"
+         transform="translate(919.48815,623.62206)"
+         width="100%"
+         height="100%" />
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.08240795;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect840"
+       width="562.5"
+       height="540"
+       x="1396.5812"
+       y="-117.40781" />
+    <g
+       id="g919"
+       transform="translate(-152.19828,131.85666)">
+      <g
+         id="g909">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07303984;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path926"
+           cx="2255.6714"
+           cy="-33.298874"
+           r="5.6700001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path926"
+           id="use928"
+           transform="translate(-2.8307423e-5,-167.04)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path926"
+           id="use930"
+           transform="translate(167.02582,-167.04)"
+           width="100%"
+           height="100%" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path926"
+           id="use932"
+           transform="translate(167.02582,2.5402181e-6)"
+           width="100%"
+           height="100%" />
+      </g>
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.88415396;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path922"
+         cx="2339.1843"
+         cy="-116.81888"
+         r="102.6" />
+    </g>
+    <g
+       id="g5465"
+       transform="translate(-183.43892,30.053188)">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02651823;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path864"
+         cx="2258.5374"
+         cy="313.31018"
+         r="102.69"
+         clip-path="url(#clipPath891)"
+         transform="translate(111.88705,-44.904211)" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12429588;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path895"
+         cx="2271.2124"
+         cy="334.84366"
+         r="5.6700001" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path895"
+         id="use897"
+         transform="translate(8.8672717e-8,-132.87402)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path895"
+         id="use899"
+         transform="translate(198.42516,-132.87402)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path895"
+         id="use901"
+         transform="translate(198.42516)"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="g5341"
+       transform="translate(217.05883,29.845589)">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.57909167;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path899"
+         cx="2179.2571"
+         cy="711.85663"
+         r="50.625" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22267295;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path902"
+         cx="2179.2571"
+         cy="811.02722"
+         r="8.6850004" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path902"
+         id="use904"
+         transform="translate(75.10803,-174.33003)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path902"
+         id="use906"
+         transform="translate(-75.191975,-174.33003)"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="g5407"
+       transform="translate(-146.40025,64.502507)">
+      <rect
+         y="582.86932"
+         x="449.62659"
+         height="170.82001"
+         width="275.39999"
+         id="rect3357"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.61127013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="582.86932"
+         x="770.03333"
+         height="170.82001"
+         width="462.60001"
+         id="rect3357-2"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79223496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="582.86932"
+         x="1277.64"
+         height="170.82001"
+         width="181.8"
+         id="rect3357-2-7"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.49664733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       y="665.2818"
+       x="1552.5"
+       height="135"
+       width="585"
+       id="rect875"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.68486214;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g885">
+      <rect
+         y="149.68217"
+         x="113.59853"
+         height="85.950005"
+         width="130.95"
+         id="rect868"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29263034;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         transform="translate(30.604861,-68.543385)"
+         id="g879">
+        <circle
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2204043;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path873"
+           cx="69.462341"
+           cy="261.20056"
+           r="6.9749999" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path873"
+           id="use875"
+           transform="translate(158.01266)"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+  </g>
+</svg>
