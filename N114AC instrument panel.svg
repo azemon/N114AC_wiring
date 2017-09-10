@@ -40,15 +40,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26"
-     inkscape:cx="1922.4824"
+     inkscape:zoom="0.34552846"
+     inkscape:cx="1968"
      inkscape:cy="768"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -176,12 +176,12 @@
          height="100%" />
     </g>
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.08240795;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95799726;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect840"
        width="562.5"
-       height="540"
+       height="423"
        x="1396.5812"
-       y="-117.40781" />
+       y="-0.40781212" />
     <g
        id="g919"
        transform="translate(-152.19828,131.85666)">
@@ -225,48 +225,14 @@
          cy="-116.81888"
          r="102.6" />
     </g>
-    <g
-       id="g5465"
-       transform="translate(-183.43892,30.053188)">
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02651823;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path864"
-         cx="2258.5374"
-         cy="313.31018"
-         r="102.69"
-         clip-path="url(#clipPath891)"
-         transform="translate(111.88705,-44.904211)" />
-      <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12429588;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path895"
-         cx="2271.2124"
-         cy="334.84366"
-         r="5.6700001" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#path895"
-         id="use897"
-         transform="translate(8.8672717e-8,-132.87402)"
-         width="100%"
-         height="100%" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#path895"
-         id="use899"
-         transform="translate(198.42516,-132.87402)"
-         width="100%"
-         height="100%" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#path895"
-         id="use901"
-         transform="translate(198.42516)"
-         width="100%"
-         height="100%" />
-    </g>
+    <circle
+       transform="translate(-71.55187,-14.851023)"
+       clip-path="url(#clipPath891)"
+       r="102.69"
+       cy="313.31018"
+       cx="2258.5374"
+       id="path864"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02651823;stroke-miterlimit:4;stroke-dasharray:none" />
     <g
        id="g5341"
        transform="translate(217.05883,29.845589)">
@@ -359,5 +325,12 @@
            height="100%" />
       </g>
     </g>
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50383347;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect840-3"
+       width="562.5"
+       height="117"
+       x="1396.5812"
+       y="-162.36781" />
   </g>
 </svg>
