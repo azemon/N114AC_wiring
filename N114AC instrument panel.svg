@@ -20,19 +20,7 @@
   <title
      id="title4363">N114AC lower instrument panel</title>
   <defs
-     id="defs4">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath891">
-      <rect
-         style="fill:#9a53ff;fill-opacity:1;stroke:none;stroke-width:0.62031442;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect893"
-         width="305.42117"
-         height="150.58961"
-         x="2115.0059"
-         y="238.01535" />
-    </clipPath>
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -225,14 +213,12 @@
          cy="-116.81888"
          r="102.6" />
     </g>
-    <circle
-       transform="translate(-71.55187,-14.851023)"
-       clip-path="url(#clipPath891)"
-       r="102.69"
-       cy="313.31018"
-       cx="2258.5374"
-       id="path864"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.02651823;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.0949527;stroke-miterlimit:4;stroke-dasharray:none"
+       clip-path="none"
+       d="M 2258.4492 651.52148 A 109.536 109.536 0 0 0 2223.248 731.83594 A 109.536 109.536 0 0 0 2258.502 812.15039 L 2407.1211 812.15039 A 109.536 109.536 0 0 0 2442.3203 731.83594 A 109.536 109.536 0 0 0 2407.0664 651.52148 L 2258.4492 651.52148 z "
+       transform="matrix(0.93750001,0,0,0.93750001,0,-387.63782)"
+       id="path864" />
     <g
        id="g5341"
        transform="translate(217.05883,29.845589)">
