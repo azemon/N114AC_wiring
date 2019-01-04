@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2017-07-09T10:38:19.125238432</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>P1DT5H32M56S</meta:editing-duration><meta:editing-cycles>72</meta:editing-cycles><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:object-count="36"/></office:meta>
+ <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2018-03-06T18:47:56.775954252</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>P1DT5H35M56S</meta:editing-duration><meta:editing-cycles>73</meta:editing-cycles><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:object-count="37"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-435</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">-804</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">45079</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">28936</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">45078</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">28935</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -35,10 +35,10 @@
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-435</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1507</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">46487</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">28938</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-2997</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-648</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">44518</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">33953</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1270</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1270</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">127</config:config-item>
@@ -90,7 +90,7 @@
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Officejet-7000-E809aCMD</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rQH+/09mZmljZWpldC03MDAwLUU4MDlhQ01EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VqZXQtNzAwMC1FODA5YUNNRAAAAAAWAAMAzwAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlamV0LTcwMDAtRTgwOWFDTUQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgBJbnB1dFNsb3Q6QXV0bwAAEgBDT01QQVRfRFVQTEVYX01PREUOAERVUExFWF9VTktOT1dO</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rQH+/09mZmljZWpldC03MDAwLUU4MDlhQ01EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VqZXQtNzAwMC1FODA5YUNNRAAAAAAWAAMAzwAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlamV0LTcwMDAtRTgwOWFDTUQKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCklucHV0U2xvdDpBdXRvAFBhZ2VTaXplOkxldHRlcgAAEgBDT01QQVRfRFVQTEVYX01PREUOAERVUExFWF9VTktOT1dO</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -380,7 +380,7 @@
    <style:graphic-properties draw:marker-end="Circle" draw:fill="none" draw:textarea-vertical-align="middle"/>
   </style:style>
   <style:style style:name="gr15" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
-   <style:graphic-properties fo:min-width="2.076cm"/>
+   <style:graphic-properties fo:min-width="2.804cm"/>
   </style:style>
   <style:style style:name="gr16" style:family="graphic" style:parent-style-name="Wire_20_Label_20_Text">
    <style:graphic-properties draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="1.767cm"/>
@@ -392,7 +392,10 @@
    <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.047cm" fo:min-width="0.136cm"/>
   </style:style>
   <style:style style:name="gr19" style:family="graphic" style:parent-style-name="Unboxed_20_Text">
-   <style:graphic-properties fo:min-width="2.045cm"/>
+   <style:graphic-properties fo:min-width="2.076cm"/>
+  </style:style>
+  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="Wire_20_Label_20_Text">
+   <style:graphic-properties svg:stroke-color="#0000cc" draw:auto-grow-width="true" fo:min-height="0cm" fo:min-width="1.767cm"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
    <style:paragraph-properties fo:text-align="center"/>
@@ -410,6 +413,12 @@
   </style:style>
   <style:style style:name="P5" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph">
+   <style:text-properties fo:color="#0000cc" fo:font-size="9pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:color="#0000cc" fo:font-size="9pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -501,7 +510,7 @@
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="15.24cm" svg:height="0.762cm" svg:x="25.4cm" svg:y="23.368cm">
-     <text:p text:style-name="P1">Bede BD-4C N114AC</text:p>
+     <text:p text:style-name="P1">Bede BD-4C N2468Z</text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr5" draw:layer="backgroundobjects" svg:width="7.62cm" svg:height="2.54cm" svg:x="25.4cm" svg:y="24.13cm">
@@ -517,7 +526,7 @@
    <draw:page draw:name="page1" draw:style-name="dp2" draw:master-page-name="Default">
     <draw:frame draw:style-name="gr6" draw:text-style-name="P2" draw:layer="layout" svg:width="1.924cm" svg:height="0.607cm" svg:x="37.724cm" svg:y="24.771cm">
      <draw:text-box>
-      <text:p>7/9/2017</text:p>
+      <text:p>3/6/2018</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="10.756cm" svg:height="7.759cm" svg:x="2.999cm" svg:y="18.488cm">
@@ -3442,7 +3451,7 @@
       <text:p>22 AWG White</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr15" draw:layer="layout" svg:width="2.576cm" svg:height="0.607cm" svg:x="24.448cm" svg:y="8.1cm">
+    <draw:frame draw:style-name="gr19" draw:layer="layout" svg:width="2.576cm" svg:height="0.607cm" svg:x="24.448cm" svg:y="8.1cm">
      <draw:text-box>
       <text:p>22 AWG White</text:p>
      </draw:text-box>
@@ -3450,6 +3459,11 @@
     <draw:frame draw:style-name="gr15" draw:layer="layout" svg:width="3.304cm" svg:height="0.607cm" svg:x="20.405cm" svg:y="4.925cm">
      <draw:text-box>
       <text:p>22 AWG White/Blue</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr20" draw:text-style-name="P6" draw:layer="layout" svg:width="3.233cm" svg:height="0.607cm" svg:x="27.679cm" svg:y="4.74cm">
+     <draw:text-box>
+      <text:p text:style-name="P6"><text:span text:style-name="T1">iBox RS-232 Port 6</text:span></text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>

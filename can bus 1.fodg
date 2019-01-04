@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2017-12-04T20:04:08.502064593</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H54M36S</meta:editing-duration><meta:editing-cycles>67</meta:editing-cycles><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2017-12-04T20:03:55.452364006</meta:print-date><meta:document-statistic meta:object-count="294"/></office:meta>
+ <office:meta><meta:initial-creator>Art Zemon</meta:initial-creator><meta:creation-date>2016-07-24T17:03:41.936731635</meta:creation-date><dc:date>2018-05-22T03:46:38.404130803</dc:date><dc:creator>Art Zemon</dc:creator><meta:editing-duration>PT4H59M3S</meta:editing-duration><meta:editing-cycles>69</meta:editing-cycles><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:printed-by>Art Zemon</meta:printed-by><meta:print-date>2018-05-22T03:46:31.919009353</meta:print-date><meta:document-statistic meta:object-count="294"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">6329</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">15328</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">9482</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">4541</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">9480</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">4539</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -370,7 +370,7 @@
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#0000cc" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.357cm" fo:min-width="2.682cm"/>
   </style:style>
   <style:style style:name="gr12" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.357cm" fo:min-width="1.069cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.357cm" fo:min-width="1.247cm"/>
   </style:style>
   <style:style style:name="gr13" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.483cm" fo:min-width="1.789cm"/>
@@ -600,11 +600,11 @@
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P1" draw:layer="backgroundobjects" svg:width="15.24cm" svg:height="0.762cm" svg:x="25.4cm" svg:y="23.368cm">
-     <text:p text:style-name="P1">Bede BD-4C N114AC</text:p>
+     <text:p text:style-name="P1">Bede BD-4C N2468Z</text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr5" draw:layer="backgroundobjects" svg:width="7.62cm" svg:height="2.54cm" svg:x="25.4cm" svg:y="24.13cm">
-     <text:p><text:span text:style-name="T1">C</text:span><text:span text:style-name="T1">A</text:span><text:span text:style-name="T1">N </text:span><text:span text:style-name="T1">B</text:span><text:span text:style-name="T1">u</text:span><text:span text:style-name="T1">s </text:span><text:span text:style-name="T1">#</text:span><text:span text:style-name="T1">1</text:span></text:p>
+     <text:p><text:span text:style-name="T1">CAN Bus #1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
    </draw:g>
@@ -642,13 +642,13 @@
       </draw:custom-shape>
       <draw:frame draw:style-name="gr8" draw:text-style-name="P2" draw:layer="measurelines" svg:width="0.959cm" svg:height="0.607cm" svg:x="11.144cm" svg:y="24.757cm">
        <draw:text-box>
-        <text:p><text:span text:style-name="T2">P</text:span><text:span text:style-name="T2">G</text:span></text:p>
+        <text:p><text:span text:style-name="T2">PG</text:span></text:p>
        </draw:text-box>
       </draw:frame>
      </draw:g>
      <draw:frame draw:style-name="gr9" draw:text-style-name="P2" draw:layer="measurelines" svg:width="2.471cm" svg:height="0.607cm" svg:x="12.598cm" svg:y="24.928cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T2">Pa</text:span><text:span text:style-name="T2">ne</text:span><text:span text:style-name="T2">l </text:span><text:span text:style-name="T2">Gr</text:span><text:span text:style-name="T2">ou</text:span><text:span text:style-name="T2">nd</text:span></text:p>
+       <text:p><text:span text:style-name="T2">Panel Ground</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -670,19 +670,19 @@
       </draw:custom-shape>
       <draw:frame draw:style-name="gr10" draw:text-style-name="P2" draw:layer="measurelines" svg:width="0.976cm" svg:height="0.607cm" svg:x="11.144cm" svg:y="23.131cm">
        <draw:text-box>
-        <text:p><text:span text:style-name="T2">C</text:span><text:span text:style-name="T2">G</text:span></text:p>
+        <text:p><text:span text:style-name="T2">CG</text:span></text:p>
        </draw:text-box>
       </draw:frame>
      </draw:g>
      <draw:frame draw:style-name="gr11" draw:text-style-name="P2" draw:layer="measurelines" svg:width="3.182cm" svg:height="0.607cm" svg:x="12.598cm" svg:y="23.302cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T2">Cr</text:span><text:span text:style-name="T2">an</text:span><text:span text:style-name="T2">kc</text:span><text:span text:style-name="T2">as</text:span><text:span text:style-name="T2">e </text:span><text:span text:style-name="T2">Gr</text:span><text:span text:style-name="T2">ou</text:span><text:span text:style-name="T2">nd</text:span></text:p>
+       <text:p><text:span text:style-name="T2">Crankcase Ground</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P3" draw:layer="layout" svg:width="1.569cm" svg:height="0.607cm" svg:x="38.031cm" svg:y="24.809cm">
+    <draw:frame draw:style-name="gr12" draw:text-style-name="P3" draw:layer="layout" svg:width="1.924cm" svg:height="0.607cm" svg:x="38.031cm" svg:y="24.809cm">
      <draw:text-box>
-      <text:p>12/4/17</text:p>
+      <text:p>5/22/2018</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -1639,7 +1639,7 @@
      </draw:line>
     </draw:g>
     <draw:g>
-     <draw:custom-shape draw:style-name="gr39" draw:text-style-name="P1" draw:layer="layout" svg:width="1.27cm" svg:height="0.889cm" draw:transform="rotate (-3.14159265358979) translate (33.42cm 16.163cm)">
+     <draw:custom-shape draw:style-name="gr39" draw:text-style-name="P1" draw:layer="layout" svg:width="1.27cm" svg:height="0.889cm" draw:transform="rotate (-3.14159265358979) translate (33.42cm 16.463cm)">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="?f0 0 ?f1 10800 0 21600 10800 21600 21600 21600 ?f7 10800" draw:text-areas="?f1 10800 ?f2 18000 ?f3 7200 ?f4 21600" draw:type="isosceles-triangle" draw:modifiers="10800" draw:enhanced-path="M ?f0 0 L 21600 21600 0 21600 Z N">
        <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -1653,13 +1653,13 @@
        <draw:handle draw:handle-position="$0 top" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="21600"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr40" draw:text-style-name="P6" draw:layer="layout" svg:width="0.976cm" svg:height="0.607cm" svg:x="32.323cm" svg:y="15.255cm">
+     <draw:frame draw:style-name="gr40" draw:text-style-name="P6" draw:layer="layout" svg:width="0.976cm" svg:height="0.607cm" svg:x="32.323cm" svg:y="15.555cm">
       <draw:text-box>
        <text:p><text:span text:style-name="T3">CG</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
-    <draw:line draw:style-name="gr23" draw:text-style-name="P4" draw:layer="layout" svg:x1="32.785cm" svg:y1="15.296cm" svg:x2="32.785cm" svg:y2="14.155cm">
+    <draw:line draw:style-name="gr23" draw:text-style-name="P4" draw:layer="layout" svg:x1="32.785cm" svg:y1="15.533cm" svg:x2="32.785cm" svg:y2="14.155cm">
      <text:p/>
     </draw:line>
     <draw:g>
